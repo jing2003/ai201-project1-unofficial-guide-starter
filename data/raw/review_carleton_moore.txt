@@ -1,0 +1,67 @@
+Source type: student_review
+
+Professor: Carleton Moore
+Department: Computer Science
+University: University of Hawaii at Manoa
+Overall rating summary: 3.0 out of 5 overall quality based on 40 ratings; 70% would take again; 3.2 level of difficulty.
+
+Review 1:
+Course: ICS 111
+Date: Apr 27, 2026
+Quality: 3.0
+Difficulty: 3.0
+For credit: Yes
+Attendance: Not mandatory
+Would take again: Yes
+Grade: A-
+Textbook: Yes
+Review text: The student says Professor Moore is very knowledgeable, but sometimes has difficulty explaining more basic concepts clearly. The student says AI use was allowed as long as it was credited. They felt that students could do well if they studied for the exams, and they found the course more enjoyable later in the semester after getting used to the material.
+Tags: Online savvy; Helpful.
+
+Review 2:
+Course: ICS 314
+Date: Feb 2, 2026
+Quality: 3.0
+Difficulty: 2.0
+For credit: Yes
+Attendance: Not mandatory
+Would take again: Yes
+Grade: A+
+Textbook: N/A
+Review text: The student says the course had many assignments, although they were not very substantial. The course also had weekly in-class WODs, which the student describes as similar to quizzes. They say the class is difficult for students without web development experience, but easy and mostly time-consuming for students who already know the material. The student also says AI was allowed and encouraged.
+Tags: Lots of homework; Test heavy.
+
+Review 3:
+Course: ICS 111
+Date: Jan 21, 2026
+Quality: 4.0
+Difficulty: 3.0
+For credit: Yes
+Attendance: Mandatory
+Would take again: Yes
+Grade: B
+Textbook: N/A
+Review text: The student says lecture periods were often structured around quizzes. They describe Professor Moore as a good professor, especially if students use his office hours. They say he was helpful, clear, and patient when explaining foundational topics. The student’s main difficulty was with a tough grading teaching assistant.
+Tags: Participation matters; Extra credit; Accessible outside class; Helpful.
+
+Review 4:
+Course: ICS 111
+Date: Dec 1, 2025
+Quality: 1.0
+Difficulty: 5.0
+For credit: Yes
+Attendance: Mandatory
+Textbook: Yes
+Review text: The student says the class used a flipped classroom format. They say Professor Moore provided videos and textbook material for students to learn outside of class instead of teaching the material directly during lecture. The student felt they did not learn well from this format. They also say the course experience depended heavily on the teaching assistant, since some teaching assistants helped with homework more than others.
+Tags: Tough grader; Get ready to read; Lots of homework.
+
+Review 5:
+Course: ICS 111
+Date: Oct 27, 2025
+Quality: 1.0
+Difficulty: 5.0
+For credit: Yes
+Attendance: Not mandatory
+Textbook: Yes
+Review text: The student says there were quizzes during every lecture and that the course involved a lot of self-teaching. They felt the professor expected students to know the material before class. The student says students who are not comfortable with Java may struggle. They also say the workload itself was not terrible, but the frequent quizzes made attendance feel required even when listed as not mandatory.
+Tags: Tough grader; Get ready to read; Beware of pop quizzes.

@@ -1,0 +1,68 @@
+Source type: student_review
+
+Professor: Richard Halverson
+Department listed on review site: Information Science
+University: University of Hawaii at Manoa
+Overall rating summary: 3.7 out of 5 overall quality based on 17 ratings; 79% would take again; 2.2 level of difficulty.
+
+Review 1:
+Course: ICS 321
+Date: Nov 29, 2025
+Quality: 1.0
+Difficulty: 1.0
+Grade: Not sure yet
+Review text: The student says the online textbook is confusing and sometimes does not make sense. They also say some concepts are not explained clearly.
+Tags: Helpful.
+
+Review 2:
+Course: ICS 235
+Date: Aug 31, 2025
+Quality: 5.0
+Difficulty: 2.0
+For credit: Yes
+Attendance: Not mandatory
+Would take again: Yes
+Grade: A
+Textbook: Yes
+Online class: Yes
+Review text: The student describes Professor Halverson as very understanding, responsive, and kind. They say that students can earn points as long as they complete the textbook work, and they recommend taking him.
+Tags: Gives good feedback; Caring; Accessible outside class; Helpful.
+
+Review 3:
+Course: ICS 211
+Date: Feb 20, 2025
+Quality: 3.0
+Difficulty: 3.0
+For credit: Yes
+Attendance: Not mandatory
+Would take again: Yes
+Grade: A
+Textbook: N/A
+Review text: The student says they took the class during the summer and mostly used zyBooks for assignments. They say students can do well if they keep up with the lectures.
+Tags: Clear grading criteria; Lecture heavy; Graded by few things.
+
+Review 4:
+Course: ICS 211
+Date: Jan 17, 2025
+Quality: 5.0
+Difficulty: 4.0
+For credit: Yes
+Attendance: Not mandatory
+Would take again: Yes
+Grade: A
+Textbook: N/A
+Online class: Yes
+Review text: The student says the summer class pacing made the course difficult because there was a lot of material. They say Professor Halverson uploaded lectures and additional explanations when students were stuck. They describe him as very accessible for questions and say the program used in the course helped them understand the material.
+Tags: Accessible outside class; Helpful.
+
+Review 5:
+Course: ICS 211
+Date: Aug 19, 2022
+Quality: 5.0
+Difficulty: 1.0
+For credit: Yes
+Would take again: Yes
+Grade: A+
+Textbook: Yes
+Review text: The student describes Professor Halverson as an excellent professor. They say the class was asynchronous and that he uploaded helpful videos explaining how to complete assignments. They also say late assignments could still receive full credit if submitted before the course ended.
+Tags: Clear grading criteria; Graded by few things; Online savvy; Helpful.

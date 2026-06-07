@@ -1,0 +1,64 @@
+Source type: student_review
+
+Professor: Henri Casanova
+Department: Computer Science
+University: University of Hawaii at Manoa
+Overall rating summary: 4.7 out of 5 overall quality based on 23 ratings; 93% would take again; 3.0 level of difficulty.
+
+Review 1:
+Course: ICS 332
+Date: Apr 20, 2026
+Quality: 5.0
+Difficulty: 1.0
+For credit: Yes
+Attendance: Not mandatory
+Would take again: Yes
+Grade: A
+Textbook: N/A
+Review text: The student gives Professor Casanova a very positive rating and describes the course as enjoyable. The review does not provide much detailed course information, but the tags suggest the lectures are strong and the professor is helpful and funny.
+Tags: Amazing lectures; Hilarious; Helpful.
+
+Review 2:
+Course: ICS 332
+Date: Apr 5, 2026
+Quality: 5.0
+Difficulty: 3.0
+Would take again: Yes
+Grade: Not sure yet
+Review text: The student describes Professor Casanova as one of the best professors in the department. They say his classes are balanced, not too hard and not too easy, which works well for most students.
+Tags: Helpful.
+
+Review 3:
+Course: ICS 312
+Date: Mar 9, 2026
+Quality: 5.0
+Difficulty: 3.0
+Would take again: Yes
+Grade: A+
+Review text: The student describes Professor Casanova as one of the best professors in the department. This review is very positive but does not provide detailed information about workload, grading, or course structure.
+Tags: Helpful.
+
+Review 4:
+Course: ICS 332 and ICS 312
+Date: Mar 3, 2026
+Quality: 5.0
+Difficulty: 4.0
+For credit: Yes
+Attendance: Mandatory
+Would take again: Yes
+Grade: Not sure yet
+Textbook: Yes
+Review text: The student says they are taking Professor Casanova for both ICS 332 and ICS 312. They describe him as exceptional, highly knowledgeable, and able to make difficult concepts much easier to understand.
+Tags: Amazing lectures; Hilarious; Test heavy; Helpful.
+
+Review 5:
+Course: ICS 312
+Date: Feb 26, 2026
+Quality: 5.0
+Difficulty: 4.0
+For credit: Yes
+Attendance: Mandatory
+Would take again: Yes
+Textbook: N/A
+Review text: The student describes the class as hard and exam-heavy, but says Professor Casanova makes the concepts easy to understand. They also say his slides include helpful practice problems.
+Tags: Clear grading criteria; Gives good feedback; Respected; Helpful.

@@ -1,0 +1,32 @@
+Source type: student_review
+
+Professor: Dusko Pavlovic
+Department: Computer Science
+University: University of Hawaii at Manoa
+Overall rating summary: 3.0 out of 5 overall quality based on 2 ratings; 50% would take again; 5.0 level of difficulty.
+Note: This professor has only 2 student reviews in this dataset, so the review evidence is limited.
+
+Review 1:
+Course: ICS 222
+Date: Apr 27, 2019
+Quality: 1.0
+Difficulty: 5.0
+For credit: Yes
+Attendance: Mandatory
+Would take again: No
+Grade: B
+Textbook: No
+Review text: The student describes the class very negatively and says they felt the course was not a good use of time. They also felt the professor was disrespectful toward students and peers. The student says the class was manageable earlier in the semester, but became much more difficult near the end, especially because they felt the final exam was unreasonable.
+Tags: Participation matters; Graded by few things; Tough grader.
+
+Review 2:
+Course: ICS 222
+Date: Feb 28, 2018
+Quality: 5.0
+Difficulty: 5.0
+For credit: Yes
+Attendance: Not mandatory
+Would take again: Yes
+Textbook: No
+Review text: The student describes the class as extremely difficult, even compared to ICS 311. However, they say the professor wants students to learn and suggests focusing on understanding the material rather than only focusing on the grade. The student says students should ask questions when confused, and they describe the professor as kind and willing to answer questions.
+Tags: Inspirational; Test heavy; Graded by few things.

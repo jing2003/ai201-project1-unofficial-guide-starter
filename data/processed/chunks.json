@@ -1,0 +1,762 @@
+[
+  {
+    "id": "official_faculty_record_0_chunk_0",
+    "text": "Source type: official_faculty\n\nProfessor: Kyungim Baek\nTitle: Associate Professor Curriculum Committee Chair\nOffice: POST 305C\nPhone: 808-956-8560\nEmail: kyungim@hawaii.edu\nResearch interests: Computer vision, machine learning, computational modeling of visual perception.\nEducation: Ph.D. 2002, Computer Science, Colorado State University; M.S. 1996, Computer Science, Sogang University, Seoul, South Korea; B.S. 1994, Mathematics, Sogang University, Seoul, South Korea",
+    "source": "data\\raw\\official_faculty.txt",
+    "source_type": "official_faculty",
+    "professor": "Kyungim Baek",
+    "record_index": 0,
+    "chunk_index": 0,
+    "word_count": 55
+  },
+  {
+    "id": "official_faculty_record_1_chunk_0",
+    "text": "Source type: official_faculty\n\nProfessor: Mahdi Belcaid\nTitle: Associate Research Professor, Department Associate Chair\nOffice: POST 306B\nPhone: 808-956-6049\nEmail: mahdi@hawaii.edu\nResearch interests: Data science education, probabilistic programming in genomics, big data approximation.\nEducation: Ph.D. 2011, University of Hawai’i at Mānoa; M.S. Université du Québec à Montréal",
+    "source": "data\\raw\\official_faculty.txt",
+    "source_type": "official_faculty",
+    "professor": "Mahdi Belcaid",
+    "record_index": 1,
+    "chunk_index": 0,
+    "word_count": 46
+  },
+  {
+    "id": "official_faculty_record_2_chunk_0",
+    "text": "Source type: official_faculty\n\nProfessor: Edo Biagioni\nTitle: Associate Professor\nOffice: POST 305F\nPhone: 808-956-3891\nEmail: esb@hawaii.edu\nResearch interests: Wireless networking, particularly wireless ad-hoc and peer-to-peer networks, verification of systems programs.\nEducation: Ph.D. 1991, University of North Carolina, Chapel Hill; Informatik Diplom 1985, Eidgenössische Technische Hochschule; B.S. 1982, MIT",
+    "source": "data\\raw\\official_faculty.txt",
+    "source_type": "official_faculty",
+    "professor": "Edo Biagioni",
+    "record_index": 2,
+    "chunk_index": 0,
+    "word_count": 48
+  },
+  {
+    "id": "official_faculty_record_3_chunk_0",
+    "text": "Source type: official_faculty\n\nProfessor: Kim Binsted\nTitle: Professor\nOffice: POST 303D\nPhone: 808-956-6107\nEmail: binsted@hawaii.edu\nResearch interests: Artificial intelligence, human-computer interfaces, and long-duration human space exploration.\nEducation: Ph.D. 1996, University of Edinburgh; M.S. 2015, Planetary Geology, University of Hawai’i at Mānoa; B.S. 1991, McGill",
+    "source": "data\\raw\\official_faculty.txt",
+    "source_type": "official_faculty",
+    "professor": "Kim Binsted",
+    "record_index": 3,
+    "chunk_index": 0,
+    "word_count": 44
+  },
+  {
+    "id": "official_faculty_record_4_chunk_0",
+    "text": "Source type: official_faculty\n\nProfessor: Henri Casanova\nTitle: Professor, Undergraduate Committee Chair\nOffice: POST 310C\nPhone: 808-956-2649\nEmail: henric@hawaii.edu\nResearch interests: High performance computing, parallel and distributed computing, parallel application scheduling, simulation of distributed applications and platforms.\nEducation: Ph.D. 1998, University of Tennessee, Knoxville; M.S. 1994, National Polytechnic Institute of Toulouse; B.S. 1993, Ecole Nationale Supérieure d’Electronique, d’Electrotechnique, d’Informatique et d’Hydraulique de Toulouse",
+    "source": "data\\raw\\official_faculty.txt",
+    "source_type": "official_faculty",
+    "professor": "Henri Casanova",
+    "record_index": 4,
+    "chunk_index": 0,
+    "word_count": 62
+  },
+  {
+    "id": "official_faculty_record_5_chunk_0",
+    "text": "Source type: official_faculty\n\nProfessor: Huaijin (George) Chen\nTitle: Assistant Professor\nEmail: huaijin@hawaii.edu\nResearch interests: Computational imaging/photography, computer vision, robotic perception.\nEducation: Ph.D. 2019, Electrical and Computer Engineering, Rice University; B.S. 2013, Imaging Science, Rochester Institute of Technology",
+    "source": "data\\raw\\official_faculty.txt",
+    "source_type": "official_faculty",
+    "professor": "Huaijin (George) Chen",
+    "record_index": 5,
+    "chunk_index": 0,
+    "word_count": 37
+  },
+  {
+    "id": "official_faculty_record_6_chunk_0",
+    "text": "Source type: official_faculty\n\nProfessor: David Conner\nTitle: Instructor\nEmail: dbconner@hawaii.edu\nResearch interests: Digital transformation, information systems, artificial intelligence, cybersecurity, programming languages, computer graphics, data visualization, user interface design, video game design, animation, educational design.\nEducation: M.S. 1996, Computer Science, Brown University; B.S. 1991, Mathematics and Computer Science, Brown University; B.A. Visual Art 1991, Brown University.\nProfessional experiences: Chief Information Officer, Hawaii State Department of Education; Chief Information Security Officer, Estée Lauder Companies; Global Head of Vulnerability Management, Morgan Stanley.",
+    "source": "data\\raw\\official_faculty.txt",
+    "source_type": "official_faculty",
+    "professor": "David Conner",
+    "record_index": 6,
+    "chunk_index": 0,
+    "word_count": 79
+  },
+  {
+    "id": "official_faculty_record_7_chunk_0",
+    "text": "Source type: official_faculty\n\nProfessor: Martha Crosby\nTitle: Professor\nOffice: POST 305D\nPhone: 808-956-3493\nEmail: crosby@hawaii.edu\nResearch interests: Human computer interaction, artificial intelligence, cognitive science, computer science education, information science education, authentication, cognitive robotics, collaborative learning, HCI theory, concepts and models, integrated and visual development environments, interaction design theory, concepts and paradigms, model curricula, philosophical/theoretical foundations of artificial intelligence, user-centered design, virtual reality.\nEducation: Ph.D. 1986, University of Hawai’i at Mānoa; M.S. 1975, University of Hawai’i at Mānoa; B.S. 1959, Colorado State University",
+    "source": "data\\raw\\official_faculty.txt",
+    "source_type": "official_faculty",
+    "professor": "Martha Crosby",
+    "record_index": 7,
+    "chunk_index": 0,
+    "word_count": 82
+  },
+  {
+    "id": "official_faculty_record_8_chunk_0",
+    "text": "Source type: official_faculty\n\nProfessor: Richard Halverson\nTitle: Instructor\nEmail: richardh@hawaii.edu",
+    "source": "data\\raw\\official_faculty.txt",
+    "source_type": "official_faculty",
+    "professor": "Richard Halverson",
+    "record_index": 8,
+    "chunk_index": 0,
+    "word_count": 10
+  },
+  {
+    "id": "official_faculty_record_9_chunk_0",
+    "text": "Source type: official_faculty\n\nProfessor: Kaveh Karden\nTitle: Instructor\nEmail: kaveh@hawaii.edu\nResearch interests: Computer graphics, genetic algorithms and programming.\nEducation: M.S. 2010, Computer Science, University of Hawai’i at Mānoa; B.S. 1985, Mathematics, Massachusetts Institute of Technology.\nProfessional experience: Software Engineer, Softimage; Software Lead, Square USA; Instructor, ACM University of Hawaii; Senior Software Developer, Weta Digital.",
+    "source": "data\\raw\\official_faculty.txt",
+    "source_type": "official_faculty",
+    "professor": "Kaveh Karden",
+    "record_index": 9,
+    "chunk_index": 0,
+    "word_count": 54
+  },
+  {
+    "id": "official_faculty_record_10_chunk_0",
+    "text": "Source type: official_faculty\n\nProfessor: Nurit Kirshenbaum\nTitle: Assistant Professor\nEmail: nuritk@hawaii.edu\nResearch interests: Human-centered design, tangible user interfaces, cyberinfrastructure, shape-changing interfaces, learning technologies, games, interactive media, authoring and visualization tools.\nEducation: Ph.D. 202, University of Hawai‘i at Mānoa; M.S. 2016, University of Hawai’i at Mānoa; B.S. 2001, Technion – Israel Institute of Technology",
+    "source": "data\\raw\\official_faculty.txt",
+    "source_type": "official_faculty",
+    "professor": "Nurit Kirshenbaum",
+    "record_index": 10,
+    "chunk_index": 0,
+    "word_count": 53
+  },
+  {
+    "id": "official_faculty_record_11_chunk_0",
+    "text": "Source type: official_faculty\n\nProfessor: Jason Leigh\nTitle: Professor\nOffice: Keller 102A\nPhone: 808-956-9164\nEmail: leighj@hawaii.edu\nResearch interests: Big data visualization, virtual reality, high performance networking, video game design.\nEducation: Ph.D. 1998, University of Illinois, Chicago; M.S. 1990, Wayne State University; B.S. 1988, University of Utah",
+    "source": "data\\raw\\official_faculty.txt",
+    "source_type": "official_faculty",
+    "professor": "Jason Leigh",
+    "record_index": 11,
+    "chunk_index": 0,
+    "word_count": 45
+  },
+  {
+    "id": "official_faculty_record_12_chunk_0",
+    "text": "Source type: official_faculty\n\nProfessor: Depeng Li\nTitle: Associate Professor\nOffice: POST 314D\nPhone: 808-956-3973\nEmail: depengli@hawaii.edu\nResearch interests: Security and privacy, internet of things, applied cryptography, operating system development, network security.\nEducation: Ph.D. 2010, Dalhousie University; M.S., Shandong University; B.S., Shandong University",
+    "source": "data\\raw\\official_faculty.txt",
+    "source_type": "official_faculty",
+    "professor": "Depeng Li",
+    "record_index": 12,
+    "chunk_index": 0,
+    "word_count": 42
+  },
+  {
+    "id": "official_faculty_record_13_chunk_0",
+    "text": "Source type: official_faculty\n\nProfessor: Mehdi Tarrit Mirakhorli\nTitle: Professor\nOffice: POST 307B\nEmail: mehdi23@hawaii.edu\nResearch interests: Software engineering, cybersecurity.\nEducation: Ph.D. 2014, DePaul University; M.S. 2008, National University – Shahid Beheshti, Tehran, Iran; BS. 2006, Teacher Training University of Iran, Tehran",
+    "source": "data\\raw\\official_faculty.txt",
+    "source_type": "official_faculty",
+    "professor": "Mehdi Tarrit Mirakhorli",
+    "record_index": 13,
+    "chunk_index": 0,
+    "word_count": 41
+  },
+  {
+    "id": "official_faculty_record_14_chunk_0",
+    "text": "Source type: official_faculty\n\nProfessor: Carleton Moore\nTitle: Assistant Professor\nOffice: POST 314F\nPhone: 808-956-6920\nEmail: cmoore@hawaii.edu\nResearch interests: Software engineering, collaborative software development.\nEducation: Ph.D. 2000, University of Hawai’i, Mānoa; M.S. 1995, University of Hawai’i, Mānoa; B.S. 1988, University of Colorado, Boulder",
+    "source": "data\\raw\\official_faculty.txt",
+    "source_type": "official_faculty",
+    "professor": "Carleton Moore",
+    "record_index": 14,
+    "chunk_index": 0,
+    "word_count": 42
+  },
+  {
+    "id": "official_faculty_record_15_chunk_0",
+    "text": "Source type: official_faculty\n\nProfessor: Ravi Narayan\nTitle: Instructor\nOffice: POST 314A\nEmail: rnarayan@hawaii.edu",
+    "source": "data\\raw\\official_faculty.txt",
+    "source_type": "official_faculty",
+    "professor": "Ravi Narayan",
+    "record_index": 15,
+    "chunk_index": 0,
+    "word_count": 13
+  },
+  {
+    "id": "official_faculty_record_16_chunk_0",
+    "text": "Source type: official_faculty\n\nProfessor: Dusko Pavlovic\nTitle: Professor\nOffice: POST 311B\nPhone: 808-956-9639\nEmail: dusko@hawaii.edu\nResearch interests: Security, network computation and economics, quantum computation, software, semantics, categories.\nACMDL dblp Scholar ORCID\nEducation: Ph.D. 1990, Utrecht University",
+    "source": "data\\raw\\official_faculty.txt",
+    "source_type": "official_faculty",
+    "professor": "Dusko Pavlovic",
+    "record_index": 16,
+    "chunk_index": 0,
+    "word_count": 36
+  },
+  {
+    "id": "official_faculty_record_17_chunk_0",
+    "text": "Source type: official_faculty\n\nProfessor: Anthony Peruma\nTitle: Assistant Professor\nOffice: POST 310B\nEmail: peruma@hawaii.edu\nResearch interests: Program comprehension, software refactoring, software maintenance & evolution.\nEducation: Ph.D. 2022, Rochester Institute of Technology; M.S. Rochester Institute of Technology; B.S. Bangalore University, India",
+    "source": "data\\raw\\official_faculty.txt",
+    "source_type": "official_faculty",
+    "professor": "Anthony Peruma",
+    "record_index": 17,
+    "chunk_index": 0,
+    "word_count": 40
+  },
+  {
+    "id": "official_faculty_record_18_chunk_0",
+    "text": "Source type: official_faculty\n\nProfessor: Guylaine Poisson\nTitle: Professor, Department Chair Director for Graduate professional Programs\nOffice: POST 317\nPhone: 808-956-3500\nPhone: 808-956-3496\nEmail: guylaine@hawaii.edu\nResearch interests: Bioinformatics, computational biology, cognitive computer science, AI ethics\nEducation: Ph.D. 2005, Université du Québec à Montréal; M.Sc. 1997 Université de Montréal",
+    "source": "data\\raw\\official_faculty.txt",
+    "source_type": "official_faculty",
+    "professor": "Guylaine Poisson",
+    "record_index": 18,
+    "chunk_index": 0,
+    "word_count": 47
+  },
+  {
+    "id": "official_faculty_record_19_chunk_0",
+    "text": "Source type: official_faculty\n\nProfessor: Andrey A. Popov\nTitle: Assistant Professor\nPhone: 808-956-3494 apopov@hawaii.edu\nResearch interests: Data assimilation, machine learning, reduced order modeling, data fusion.\nEducation: Ph.D. Computer Science, Virginia Tech; B.S. Mathematics, Rensselaer Polytechnic Institute",
+    "source": "data\\raw\\official_faculty.txt",
+    "source_type": "official_faculty",
+    "professor": "Andrey A. Popov",
+    "record_index": 19,
+    "chunk_index": 0,
+    "word_count": 35
+  },
+  {
+    "id": "official_faculty_record_20_chunk_0",
+    "text": "Source type: official_faculty\n\nProfessor: Scott Robertson\nTitle: Professor\nEmail: scottpr@hawaii.edu\nResearch interests: Human-computer interaction, sociotechnical systems, social computing and social informatics, community informatics and civic engagement, smart cities, digital democracy and e-participation.\nEducation: Ph.D. 1983, Yale University; M.A. 1979, California State University, Fullerton; B.A. 1976, University of California, Irvine",
+    "source": "data\\raw\\official_faculty.txt",
+    "source_type": "official_faculty",
+    "professor": "Scott Robertson",
+    "record_index": 20,
+    "chunk_index": 0,
+    "word_count": 49
+  },
+  {
+    "id": "official_faculty_record_21_chunk_0",
+    "text": "Source type: official_faculty\n\nProfessor: Peter Sadowsky\nTitle: Associate Professor\nOffice: POST 306C\nPhone: 808-956-2023\nEmail: psadow@hawaii.edu\nResearch interests: Machine learning, artificial intelligence, neural networks, learning in biological systems, applications of machine learning to physics, astronomy, weather, and climate.\nEducation: Ph.D. 2016, Computer Science, University of California, Irvine; B.S. 2009, Computer Science, California Institute of Technology",
+    "source": "data\\raw\\official_faculty.txt",
+    "source_type": "official_faculty",
+    "professor": "Peter Sadowsky",
+    "record_index": 21,
+    "chunk_index": 0,
+    "word_count": 55
+  },
+  {
+    "id": "official_faculty_record_22_chunk_0",
+    "text": "Source type: official_faculty\n\nProfessor: Italo Santos\nTitle: Assistant Professor\nOffice: POST 303F\nEmail: isantos3@hawaii.edu\nResearch interests: Software engineering and human aspects, open-source software, human-computer interaction, empirical software engineering, and software engineering education and training.\nEducation: Ph.D. 2025, Informatics and Computing, Northern Arizona University; M.S. 2020, Computer Science and Computational Mathematics, University of São Paulo, Brazil; B.S. 2018, Digital Media and Systems, Federal University of Ceará, Brazil",
+    "source": "data\\raw\\official_faculty.txt",
+    "source_type": "official_faculty",
+    "professor": "Italo Santos",
+    "record_index": 22,
+    "chunk_index": 0,
+    "word_count": 66
+  },
+  {
+    "id": "official_faculty_record_23_chunk_0",
+    "text": "Source type: official_faculty\n\nProfessor: Peter-Michael Seidel\nTitle: Associate Professor\nOffice: POST 311A\nPhone: 808-956-6068\nEmail: pseidel@hawaii.edu\nResearch interests: Computer arithmetic, computer architecture, formal methods, hardware security.\nEducation: Dr.-Ing 2000, Habilitation 2002, University of the Saarland at Saarbruecken, Germany; B.Sc. 1994, M.Sc. 1994, University of Hagen, Germany",
+    "source": "data\\raw\\official_faculty.txt",
+    "source_type": "official_faculty",
+    "professor": "Peter-Michael Seidel",
+    "record_index": 23,
+    "chunk_index": 0,
+    "word_count": 46
+  },
+  {
+    "id": "official_faculty_record_24_chunk_0",
+    "text": "Source type: official_faculty\n\nProfessor: Nodari Sitchinava\nTitle: Professor\nOffice: POST 309C\nPhone: 808-956-3581\nEmail: nodari@hawaii.edu\nResearch interests: Algorithms for modern parallel systems, cache-efficient parallel algorithms for multicores and GPUs, I/O-efficient algorithms, cache-oblivious algorithms and communication-efficient distributed algorithms, computational geometry and graph algorithms.\nEducation: Ph.D. 2009, University of California, Irvine; M.Eng. 2003, Massachusetts Institute of Technology; S.B. 2002, Massachusetts Institute of Technology",
+    "source": "data\\raw\\official_faculty.txt",
+    "source_type": "official_faculty",
+    "professor": "Nodari Sitchinava",
+    "record_index": 24,
+    "chunk_index": 0,
+    "word_count": 61
+  },
+  {
+    "id": "official_faculty_record_25_chunk_0",
+    "text": "Source type: official_faculty\n\nProfessor: Dan Suthers\nTitle: Professor\nChair, CIS PhD Program\nOffice: POST 309B\nPhone: 808-956-3890\nEmail: suthers@hawaii.edu\nResearch interests: Technology enhanced learning, human-computer interaction, social informatics, cognitive, social and computational perspectives on designing and evaluating software for learning, collaboration, and community.\nEducation: Ph.D. 1993, University of Massachusetts; M.S. 1988, University of Massachusetts; B.F.A. 1979, Kansas City Art Institute",
+    "source": "data\\raw\\official_faculty.txt",
+    "source_type": "official_faculty",
+    "professor": "Dan Suthers",
+    "record_index": 25,
+    "chunk_index": 0,
+    "word_count": 60
+  },
+  {
+    "id": "official_faculty_record_26_chunk_0",
+    "text": "Source type: official_faculty\n\nProfessor: Katy Tarrit\nTitle: Assistant Professor\nOffice: POST 305E\nEmail: katytm7@hawaii.edu\nResearch interests: Developmental cognitive neuroscience, digital signal and image processing, brain computer interface.\nEducation: Ph.D. 2014, University of the West of England; M.Sc. 2010, Cranfield University; B.Sc. 2007, University of Bordeaux",
+    "source": "data\\raw\\official_faculty.txt",
+    "source_type": "official_faculty",
+    "professor": "Katy Tarrit",
+    "record_index": 26,
+    "chunk_index": 0,
+    "word_count": 45
+  },
+  {
+    "id": "official_faculty_record_27_chunk_0",
+    "text": "Source type: official_faculty\n\nProfessor: Yifan Wang\nTitle: Assistant Professor\nEmail: yifanw@hawaii.edu\nResearch interests: Databases, high-dimensional data systems, AI+DB, data analytic systems, information retrieval, retrieval-augmented generation (RAG) for LLM.\nEducation: Ph.D. 2024, Computer Science, University of Florida; M.S. 2019, Computer Science, University of Florida; B.S. 2017, Electronics and Information Engineering, Huazhong University of Science and Technology",
+    "source": "data\\raw\\official_faculty.txt",
+    "source_type": "official_faculty",
+    "professor": "Yifan Wang",
+    "record_index": 27,
+    "chunk_index": 0,
+    "word_count": 55
+  },
+  {
+    "id": "official_faculty_record_28_chunk_0",
+    "text": "Source type: official_faculty\n\nProfessor: Haopeng Zhang\nTitle: Assistant Professor\nEmail: haopengz@hawaii.edu\nResearch interests: Natural language processing, generative AI, specifically text summarization, multi-modal LLM, LLM applications.\nEducation: Ph.D., Computer Science, University of California, Davis; M.S., Electrical Engineering, Georgia Institute of Technology; M.S., Computational Science, Georgia Institute of Technology; B.S., Electrical Engineering, University of Illinois at Urbana-Champaign.",
+    "source": "data\\raw\\official_faculty.txt",
+    "source_type": "official_faculty",
+    "professor": "Haopeng Zhang",
+    "record_index": 28,
+    "chunk_index": 0,
+    "word_count": 55
+  },
+  {
+    "id": "review_andrey_popov_record_0_chunk_0",
+    "text": "Source type: student_review\n\nProfessor: Andrey Popov\nDepartment: Computer Science\nUniversity: University of Hawaii at Manoa\nOverall rating summary: 4.4 out of 5 overall quality based on 5 ratings; 100% would take again; 2.8 level of difficulty.\n\nReview 1:\nCourse: ICS 141\nDate: Apr 29, 2026\nQuality: 4.0\nDifficulty: 3.0\nFor credit: Yes\nAttendance: Not mandatory\nWould take again: Yes\nGrade: Not sure yet\nTextbook: N/A\nReview text: The student says grading can feel intimidating because the professor wants students to show that they understand the material, especially with concerns about AI use. Although lectures are not required, the student says lectures contain useful information and that Professor Popov is open to questions and concerns. The student strongly recommends paying attention in class and asking questions.\nTags: Clear grading criteria; Lecture heavy.",
+    "source": "data\\raw\\review_andrey_popov.txt",
+    "source_type": "student_review",
+    "professor": "Andrey Popov",
+    "record_index": 0,
+    "chunk_index": 0,
+    "word_count": 131
+  },
+  {
+    "id": "review_andrey_popov_record_1_chunk_0",
+    "text": "Source type: student_review\n\nProfessor: Andrey Popov\nDepartment: Computer Science\nUniversity: University of Hawaii at Manoa\nOverall rating summary: 4.4 out of 5 overall quality based on 5 ratings; 100% would take again; 2.8 level of difficulty.\n\nReview 2:\nCourse: ICS 141\nDate: Jan 13, 2026\nQuality: 5.0\nDifficulty: 3.0\nFor credit: Yes\nAttendance: Not mandatory\nWould take again: Yes\nGrade: A+\nTextbook: Yes\nReview text: The student says Professor Popov may seem strict at first, but is approachable and teaches the material needed for exams. They recommend attending lectures, going to recitation, and preparing detailed cheat sheets for exams. The student says they expected to struggle but ended up doing very well on both exams.\nTags: Lecture heavy; Test heavy.",
+    "source": "data\\raw\\review_andrey_popov.txt",
+    "source_type": "student_review",
+    "professor": "Andrey Popov",
+    "record_index": 1,
+    "chunk_index": 0,
+    "word_count": 120
+  },
+  {
+    "id": "review_andrey_popov_record_2_chunk_0",
+    "text": "Source type: student_review\n\nProfessor: Andrey Popov\nDepartment: Computer Science\nUniversity: University of Hawaii at Manoa\nOverall rating summary: 4.4 out of 5 overall quality based on 5 ratings; 100% would take again; 2.8 level of difficulty.\n\nReview 3:\nCourse: ICS 141\nDate: Aug 7, 2025\nQuality: 4.0\nDifficulty: 3.0\nFor credit: Yes\nAttendance: Not mandatory\nWould take again: Yes\nGrade: B+\nTextbook: Yes\nReview text: The student recommends making strong use of the allowed cheat sheet by including proofs and as much useful information as possible. They say proofs were the hardest part of the course, but they felt they learned material that would be useful in later computer science classes.\nTags: Amazing lectures; Test heavy.",
+    "source": "data\\raw\\review_andrey_popov.txt",
+    "source_type": "student_review",
+    "professor": "Andrey Popov",
+    "record_index": 2,
+    "chunk_index": 0,
+    "word_count": 116
+  },
+  {
+    "id": "review_andrey_popov_record_3_chunk_0",
+    "text": "Source type: student_review\n\nProfessor: Andrey Popov\nDepartment: Computer Science\nUniversity: University of Hawaii at Manoa\nOverall rating summary: 4.4 out of 5 overall quality based on 5 ratings; 100% would take again; 2.8 level of difficulty.\n\nReview 4:\nCourse: ICS 141\nDate: May 5, 2025\nQuality: 5.0\nDifficulty: 3.0\nFor credit: Yes\nAttendance: Not mandatory\nWould take again: Yes\nGrade: A\nTextbook: Yes\nReview text: The student describes the class as very informative. They say lecture attendance was not required, but strongly recommend going and taking good notes because Professor Popov does not follow the textbook exactly. The course had two midterms, one final, double-sided cheat sheets for exams, required recitation, and several homework assignments. The teaching assistant also provided extra credit opportunities.\nTags: Extra credit; Lecture heavy; Test heavy.",
+    "source": "data\\raw\\review_andrey_popov.txt",
+    "source_type": "student_review",
+    "professor": "Andrey Popov",
+    "record_index": 3,
+    "chunk_index": 0,
+    "word_count": 130
+  },
+  {
+    "id": "review_andrey_popov_record_4_chunk_0",
+    "text": "Source type: student_review\n\nProfessor: Andrey Popov\nDepartment: Computer Science\nUniversity: University of Hawaii at Manoa\nOverall rating summary: 4.4 out of 5 overall quality based on 5 ratings; 100% would take again; 2.8 level of difficulty.\n\nReview 5:\nCourse: ICS 141\nDate: Jan 14, 2025\nQuality: 4.0\nDifficulty: 2.0\nFor credit: Yes\nAttendance: Not mandatory\nWould take again: Yes\nGrade: A-\nTextbook: Yes\nReview text: The student describes Professor Popov as informative and says his lectures are understandable. They say he likes to explain proof-based concepts in depth. The course included homework assigned by the teaching assistant, mandatory recitation, two tests, and a final. The student also says partial credit was given on exams.\nTags: Get ready to read; Extra credit; Lecture heavy.",
+    "source": "data\\raw\\review_andrey_popov.txt",
+    "source_type": "student_review",
+    "professor": "Andrey Popov",
+    "record_index": 4,
+    "chunk_index": 0,
+    "word_count": 123
+  },
+  {
+    "id": "review_carleton_moore_record_0_chunk_0",
+    "text": "Source type: student_review\n\nProfessor: Carleton Moore\nDepartment: Computer Science\nUniversity: University of Hawaii at Manoa\nOverall rating summary: 3.0 out of 5 overall quality based on 40 ratings; 70% would take again; 3.2 level of difficulty.\n\nReview 1:\nCourse: ICS 111\nDate: Apr 27, 2026\nQuality: 3.0\nDifficulty: 3.0\nFor credit: Yes\nAttendance: Not mandatory\nWould take again: Yes\nGrade: A-\nTextbook: Yes\nReview text: The student says Professor Moore is very knowledgeable, but sometimes has difficulty explaining more basic concepts clearly. The student says AI use was allowed as long as it was credited. They felt that students could do well if they studied for the exams, and they found the course more enjoyable later in the semester after getting used to the material.\nTags: Online savvy; Helpful.",
+    "source": "data\\raw\\review_carleton_moore.txt",
+    "source_type": "student_review",
+    "professor": "Carleton Moore",
+    "record_index": 0,
+    "chunk_index": 0,
+    "word_count": 129
+  },
+  {
+    "id": "review_carleton_moore_record_1_chunk_0",
+    "text": "Source type: student_review\n\nProfessor: Carleton Moore\nDepartment: Computer Science\nUniversity: University of Hawaii at Manoa\nOverall rating summary: 3.0 out of 5 overall quality based on 40 ratings; 70% would take again; 3.2 level of difficulty.\n\nReview 2:\nCourse: ICS 314\nDate: Feb 2, 2026\nQuality: 3.0\nDifficulty: 2.0\nFor credit: Yes\nAttendance: Not mandatory\nWould take again: Yes\nGrade: A+\nTextbook: N/A\nReview text: The student says the course had many assignments, although they were not very substantial. The course also had weekly in-class WODs, which the student describes as similar to quizzes. They say the class is difficult for students without web development experience, but easy and mostly time-consuming for students who already know the material. The student also says AI was allowed and encouraged.\nTags: Lots of homework; Test heavy.",
+    "source": "data\\raw\\review_carleton_moore.txt",
+    "source_type": "student_review",
+    "professor": "Carleton Moore",
+    "record_index": 1,
+    "chunk_index": 0,
+    "word_count": 133
+  },
+  {
+    "id": "review_carleton_moore_record_2_chunk_0",
+    "text": "Source type: student_review\n\nProfessor: Carleton Moore\nDepartment: Computer Science\nUniversity: University of Hawaii at Manoa\nOverall rating summary: 3.0 out of 5 overall quality based on 40 ratings; 70% would take again; 3.2 level of difficulty.\n\nReview 3:\nCourse: ICS 111\nDate: Jan 21, 2026\nQuality: 4.0\nDifficulty: 3.0\nFor credit: Yes\nAttendance: Mandatory\nWould take again: Yes\nGrade: B\nTextbook: N/A\nReview text: The student says lecture periods were often structured around quizzes. They describe Professor Moore as a good professor, especially if students use his office hours. They say he was helpful, clear, and patient when explaining foundational topics. The student’s main difficulty was with a tough grading teaching assistant.\nTags: Participation matters; Extra credit; Accessible outside class; Helpful.",
+    "source": "data\\raw\\review_carleton_moore.txt",
+    "source_type": "student_review",
+    "professor": "Carleton Moore",
+    "record_index": 2,
+    "chunk_index": 0,
+    "word_count": 121
+  },
+  {
+    "id": "review_carleton_moore_record_3_chunk_0",
+    "text": "Source type: student_review\n\nProfessor: Carleton Moore\nDepartment: Computer Science\nUniversity: University of Hawaii at Manoa\nOverall rating summary: 3.0 out of 5 overall quality based on 40 ratings; 70% would take again; 3.2 level of difficulty.\n\nReview 4:\nCourse: ICS 111\nDate: Dec 1, 2025\nQuality: 1.0\nDifficulty: 5.0\nFor credit: Yes\nAttendance: Mandatory\nTextbook: Yes\nReview text: The student says the class used a flipped classroom format. They say Professor Moore provided videos and textbook material for students to learn outside of class instead of teaching the material directly during lecture. The student felt they did not learn well from this format. They also say the course experience depended heavily on the teaching assistant, since some teaching assistants helped with homework more than others.\nTags: Tough grader; Get ready to read; Lots of homework.",
+    "source": "data\\raw\\review_carleton_moore.txt",
+    "source_type": "student_review",
+    "professor": "Carleton Moore",
+    "record_index": 3,
+    "chunk_index": 0,
+    "word_count": 135
+  },
+  {
+    "id": "review_carleton_moore_record_4_chunk_0",
+    "text": "Source type: student_review\n\nProfessor: Carleton Moore\nDepartment: Computer Science\nUniversity: University of Hawaii at Manoa\nOverall rating summary: 3.0 out of 5 overall quality based on 40 ratings; 70% would take again; 3.2 level of difficulty.\n\nReview 5:\nCourse: ICS 111\nDate: Oct 27, 2025\nQuality: 1.0\nDifficulty: 5.0\nFor credit: Yes\nAttendance: Not mandatory\nTextbook: Yes\nReview text: The student says there were quizzes during every lecture and that the course involved a lot of self-teaching. They felt the professor expected students to know the material before class. The student says students who are not comfortable with Java may struggle. They also say the workload itself was not terrible, but the frequent quizzes made attendance feel required even when listed as not mandatory.\nTags: Tough grader; Get ready to read; Beware of pop quizzes.",
+    "source": "data\\raw\\review_carleton_moore.txt",
+    "source_type": "student_review",
+    "professor": "Carleton Moore",
+    "record_index": 4,
+    "chunk_index": 0,
+    "word_count": 135
+  },
+  {
+    "id": "review_dusko_pavlovic_record_0_chunk_0",
+    "text": "Source type: student_review\n\nProfessor: Dusko Pavlovic\nDepartment: Computer Science\nUniversity: University of Hawaii at Manoa\nOverall rating summary: 3.0 out of 5 overall quality based on 2 ratings; 50% would take again; 5.0 level of difficulty.\nNote: This professor has only 2 student reviews in this dataset, so the review evidence is limited.\n\nReview 1:\nCourse: ICS 222\nDate: Apr 27, 2019\nQuality: 1.0\nDifficulty: 5.0\nFor credit: Yes\nAttendance: Mandatory\nWould take again: No\nGrade: B\nTextbook: No\nReview text: The student describes the class very negatively and says they felt the course was not a good use of time. They also felt the professor was disrespectful toward students and peers. The student says the class was manageable earlier in the semester, but became much more difficult near the end, especially because they felt the final exam was unreasonable.\nTags: Participation matters; Graded by few things; Tough grader.",
+    "source": "data\\raw\\review_dusko_pavlovic.txt",
+    "source_type": "student_review",
+    "professor": "Dusko Pavlovic",
+    "record_index": 0,
+    "chunk_index": 0,
+    "word_count": 149
+  },
+  {
+    "id": "review_dusko_pavlovic_record_1_chunk_0",
+    "text": "Source type: student_review\n\nProfessor: Dusko Pavlovic\nDepartment: Computer Science\nUniversity: University of Hawaii at Manoa\nOverall rating summary: 3.0 out of 5 overall quality based on 2 ratings; 50% would take again; 5.0 level of difficulty.\nNote: This professor has only 2 student reviews in this dataset, so the review evidence is limited.\n\nReview 2:\nCourse: ICS 222\nDate: Feb 28, 2018\nQuality: 5.0\nDifficulty: 5.0\nFor credit: Yes\nAttendance: Not mandatory\nWould take again: Yes\nTextbook: No\nReview text: The student describes the class as extremely difficult, even compared to ICS 311. However, they say the professor wants students to learn and suggests focusing on understanding the material rather than only focusing on the grade. The student says students should ask questions when confused, and they describe the professor as kind and willing to answer questions.\nTags: Inspirational; Test heavy; Graded by few things.",
+    "source": "data\\raw\\review_dusko_pavlovic.txt",
+    "source_type": "student_review",
+    "professor": "Dusko Pavlovic",
+    "record_index": 1,
+    "chunk_index": 0,
+    "word_count": 145
+  },
+  {
+    "id": "review_edo_biagioni_record_0_chunk_0",
+    "text": "Source type: student_review\n\nProfessor: Edo Biagioni\nAlso listed as: Edoardo Biagioni\nDepartment: Computer Science\nUniversity: University of Hawaii at Manoa\nOverall rating summary: 2.3 out of 5 overall quality based on 51 ratings; 16% would take again; 4.3 level of difficulty.\n\nReview 1:\nCourse: ICS 211\nDate: Apr 29, 2026\nQuality: 1.0\nDifficulty: 5.0\nFor credit: Yes\nAttendance: Mandatory\nGrade: D\nTextbook: Yes\nReview text: The student strongly recommends taking another professor for ICS 211. They describe the lectures as very boring and say the tests and homework are extremely difficult. The student says the class may only be suitable for students who are already very strong in Java. They also felt that asking for help was sometimes discouraging because the professor seemed demeaning when they did not already know a topic.\nTags: Get ready to read; Lecture heavy; Test heavy.",
+    "source": "data\\raw\\review_edo_biagioni.txt",
+    "source_type": "student_review",
+    "professor": "Edo Biagioni",
+    "record_index": 0,
+    "chunk_index": 0,
+    "word_count": 141
+  },
+  {
+    "id": "review_edo_biagioni_record_1_chunk_0",
+    "text": "Source type: student_review\n\nProfessor: Edo Biagioni\nAlso listed as: Edoardo Biagioni\nDepartment: Computer Science\nUniversity: University of Hawaii at Manoa\nOverall rating summary: 2.3 out of 5 overall quality based on 51 ratings; 16% would take again; 4.3 level of difficulty.\n\nReview 2:\nCourse: ICS 211\nDate: Dec 10, 2025\nQuality: 1.0\nDifficulty: 5.0\nFor credit: Yes\nAttendance: Mandatory\nGrade: Rather not say\nTextbook: Yes\nReview text: The student describes the workload as confusing and says they did not understand what was happening even when attending class. They felt the professor expected students to already know different languages and scripts before entering the course.\nTags: Tough grader; Test heavy; Graded by few things.",
+    "source": "data\\raw\\review_edo_biagioni.txt",
+    "source_type": "student_review",
+    "professor": "Edo Biagioni",
+    "record_index": 1,
+    "chunk_index": 0,
+    "word_count": 113
+  },
+  {
+    "id": "review_edo_biagioni_record_2_chunk_0",
+    "text": "Source type: student_review\n\nProfessor: Edo Biagioni\nAlso listed as: Edoardo Biagioni\nDepartment: Computer Science\nUniversity: University of Hawaii at Manoa\nOverall rating summary: 2.3 out of 5 overall quality based on 51 ratings; 16% would take again; 4.3 level of difficulty.\n\nReview 3:\nCourse: ICS 651\nDate: Dec 3, 2025\nQuality: 5.0\nDifficulty: 4.0\nFor credit: Yes\nAttendance: Not mandatory\nWould take again: Yes\nGrade: A\nTextbook: N/A\nReview text: The student says the professor is excited about the course content and very knowledgeable in his field. They say he gives in-person one-on-one feedback on projects, checks for student understanding, and reaches out to students. The student describes the class as lecture-heavy but interesting. They also mention that he writes his own free public textbook. The student suggests that while ICS 211 may not be his strongest course, he performs very well when teaching a class in his field.\nTags: Get ready to read; Amazing lectures; Gives good feedback.",
+    "source": "data\\raw\\review_edo_biagioni.txt",
+    "source_type": "student_review",
+    "professor": "Edo Biagioni",
+    "record_index": 2,
+    "chunk_index": 0,
+    "word_count": 159
+  },
+  {
+    "id": "review_edo_biagioni_record_3_chunk_0",
+    "text": "Source type: student_review\n\nProfessor: Edo Biagioni\nAlso listed as: Edoardo Biagioni\nDepartment: Computer Science\nUniversity: University of Hawaii at Manoa\nOverall rating summary: 2.3 out of 5 overall quality based on 51 ratings; 16% would take again; 4.3 level of difficulty.\n\nReview 4:\nCourse: ICS 211\nDate: Dec 1, 2025\nQuality: 1.0\nDifficulty: 5.0\nFor credit: Yes\nAttendance: Mandatory\nGrade: Not sure yet\nTextbook: Yes\nReview text: The student recommends finding another professor for ICS 211 if possible. They say the professor mostly reads from slides and does not always answer questions clearly. They also say exams may include topics that were only briefly covered. The student mentions that one exam had a low class average and that there were no grade curves. They describe the course as challenging.\nTags: Tough grader; Beware of pop quizzes; Lecture heavy.",
+    "source": "data\\raw\\review_edo_biagioni.txt",
+    "source_type": "student_review",
+    "professor": "Edo Biagioni",
+    "record_index": 3,
+    "chunk_index": 0,
+    "word_count": 138
+  },
+  {
+    "id": "review_edo_biagioni_record_4_chunk_0",
+    "text": "Source type: student_review\n\nProfessor: Edo Biagioni\nAlso listed as: Edoardo Biagioni\nDepartment: Computer Science\nUniversity: University of Hawaii at Manoa\nOverall rating summary: 2.3 out of 5 overall quality based on 51 ratings; 16% would take again; 4.3 level of difficulty.\n\nReview 5:\nCourse: ICS 211\nDate: Dec 1, 2025\nReviewed: Dec 3, 2025\nQuality: 1.0\nDifficulty: 5.0\nFor credit: Yes\nAttendance: Mandatory\nGrade: Rather not say\nTextbook: Yes\nReview text: This review gives very little detailed explanation, but the student gives a low rating and marks the course as lecture-heavy, test-heavy, and having pop quizzes.\nTags: Beware of pop quizzes; Lecture heavy; Test heavy.",
+    "source": "data\\raw\\review_edo_biagioni.txt",
+    "source_type": "student_review",
+    "professor": "Edo Biagioni",
+    "record_index": 4,
+    "chunk_index": 0,
+    "word_count": 105
+  },
+  {
+    "id": "review_henri_casanova_record_0_chunk_0",
+    "text": "Source type: student_review\n\nProfessor: Henri Casanova\nDepartment: Computer Science\nUniversity: University of Hawaii at Manoa\nOverall rating summary: 4.7 out of 5 overall quality based on 23 ratings; 93% would take again; 3.0 level of difficulty.\n\nReview 1:\nCourse: ICS 332\nDate: Apr 20, 2026\nQuality: 5.0\nDifficulty: 1.0\nFor credit: Yes\nAttendance: Not mandatory\nWould take again: Yes\nGrade: A\nTextbook: N/A\nReview text: The student gives Professor Casanova a very positive rating and describes the course as enjoyable. The review does not provide much detailed course information, but the tags suggest the lectures are strong and the professor is helpful and funny.\nTags: Amazing lectures; Hilarious; Helpful.",
+    "source": "data\\raw\\review_henri_casanova.txt",
+    "source_type": "student_review",
+    "professor": "Henri Casanova",
+    "record_index": 0,
+    "chunk_index": 0,
+    "word_count": 109
+  },
+  {
+    "id": "review_henri_casanova_record_1_chunk_0",
+    "text": "Source type: student_review\n\nProfessor: Henri Casanova\nDepartment: Computer Science\nUniversity: University of Hawaii at Manoa\nOverall rating summary: 4.7 out of 5 overall quality based on 23 ratings; 93% would take again; 3.0 level of difficulty.\n\nReview 2:\nCourse: ICS 332\nDate: Apr 5, 2026\nQuality: 5.0\nDifficulty: 3.0\nWould take again: Yes\nGrade: Not sure yet\nReview text: The student describes Professor Casanova as one of the best professors in the department. They say his classes are balanced, not too hard and not too easy, which works well for most students.\nTags: Helpful.",
+    "source": "data\\raw\\review_henri_casanova.txt",
+    "source_type": "student_review",
+    "professor": "Henri Casanova",
+    "record_index": 1,
+    "chunk_index": 0,
+    "word_count": 94
+  },
+  {
+    "id": "review_henri_casanova_record_2_chunk_0",
+    "text": "Source type: student_review\n\nProfessor: Henri Casanova\nDepartment: Computer Science\nUniversity: University of Hawaii at Manoa\nOverall rating summary: 4.7 out of 5 overall quality based on 23 ratings; 93% would take again; 3.0 level of difficulty.\n\nReview 3:\nCourse: ICS 312\nDate: Mar 9, 2026\nQuality: 5.0\nDifficulty: 3.0\nWould take again: Yes\nGrade: A+\nReview text: The student describes Professor Casanova as one of the best professors in the department. This review is very positive but does not provide detailed information about workload, grading, or course structure.\nTags: Helpful.",
+    "source": "data\\raw\\review_henri_casanova.txt",
+    "source_type": "student_review",
+    "professor": "Henri Casanova",
+    "record_index": 2,
+    "chunk_index": 0,
+    "word_count": 90
+  },
+  {
+    "id": "review_henri_casanova_record_3_chunk_0",
+    "text": "Source type: student_review\n\nProfessor: Henri Casanova\nDepartment: Computer Science\nUniversity: University of Hawaii at Manoa\nOverall rating summary: 4.7 out of 5 overall quality based on 23 ratings; 93% would take again; 3.0 level of difficulty.\n\nReview 4:\nCourse: ICS 332 and ICS 312\nDate: Mar 3, 2026\nQuality: 5.0\nDifficulty: 4.0\nFor credit: Yes\nAttendance: Mandatory\nWould take again: Yes\nGrade: Not sure yet\nTextbook: Yes\nReview text: The student says they are taking Professor Casanova for both ICS 332 and ICS 312. They describe him as exceptional, highly knowledgeable, and able to make difficult concepts much easier to understand.\nTags: Amazing lectures; Hilarious; Test heavy; Helpful.",
+    "source": "data\\raw\\review_henri_casanova.txt",
+    "source_type": "student_review",
+    "professor": "Henri Casanova",
+    "record_index": 3,
+    "chunk_index": 0,
+    "word_count": 108
+  },
+  {
+    "id": "review_henri_casanova_record_4_chunk_0",
+    "text": "Source type: student_review\n\nProfessor: Henri Casanova\nDepartment: Computer Science\nUniversity: University of Hawaii at Manoa\nOverall rating summary: 4.7 out of 5 overall quality based on 23 ratings; 93% would take again; 3.0 level of difficulty.\n\nReview 5:\nCourse: ICS 312\nDate: Feb 26, 2026\nQuality: 5.0\nDifficulty: 4.0\nFor credit: Yes\nAttendance: Mandatory\nWould take again: Yes\nTextbook: N/A\nReview text: The student describes the class as hard and exam-heavy, but says Professor Casanova makes the concepts easy to understand. They also say his slides include helpful practice problems.\nTags: Clear grading criteria; Gives good feedback; Respected; Helpful.",
+    "source": "data\\raw\\review_henri_casanova.txt",
+    "source_type": "student_review",
+    "professor": "Henri Casanova",
+    "record_index": 4,
+    "chunk_index": 0,
+    "word_count": 99
+  },
+  {
+    "id": "review_jason_leigh_record_0_chunk_0",
+    "text": "Source type: student_review\n\nProfessor: Jason Leigh\nDepartment: Computer Science\nUniversity: University of Hawaii at Manoa\nOverall rating summary: 3.8 out of 5 overall quality based on 28 ratings; 75% would take again; 2.9 level of difficulty.\n\nReview 1:\nListed course: ICS 111\nReview mentions course: ICS 486\nDate: Apr 30, 2025\nQuality: 4.0\nDifficulty: 3.0\nFor credit: Yes\nWould take again: Yes\nGrade: A+\nTextbook: N/A\nReview text: The student says the class was not very difficult, but students needed to learn Unity on their own to do well. The course included three projects, including AR/VR apps and a group project, plus a presentation on a chosen topic. Class time was used for short lectures, presentations, and project work time. The student felt grading was lenient as long as students showed effort.\nTags: Group projects; Clear grading criteria; Graded by few things.",
+    "source": "data\\raw\\review_jason_leigh.txt",
+    "source_type": "student_review",
+    "professor": "Jason Leigh",
+    "record_index": 0,
+    "chunk_index": 0,
+    "word_count": 142
+  },
+  {
+    "id": "review_jason_leigh_record_1_chunk_0",
+    "text": "Source type: student_review\n\nProfessor: Jason Leigh\nDepartment: Computer Science\nUniversity: University of Hawaii at Manoa\nOverall rating summary: 3.8 out of 5 overall quality based on 28 ratings; 75% would take again; 2.9 level of difficulty.\n\nReview 2:\nCourse: ICS 111\nDate: May 18, 2019\nQuality: 4.0\nDifficulty: 3.0\nFor credit: Yes\nAttendance: Not mandatory\nWould take again: Yes\nTextbook: No\nReview text: The student says Professor Leigh cares about students and that students can do well by attending class or studying the slides. The course had no homework or quizzes that semester, but included projects and three midterms. The student recommends doing well on all three midterms and choosing good teammates for the final project. They also mention that the exams are not cumulative.\nTags: Accessible outside class; Graded by few things; Test heavy.",
+    "source": "data\\raw\\review_jason_leigh.txt",
+    "source_type": "student_review",
+    "professor": "Jason Leigh",
+    "record_index": 1,
+    "chunk_index": 0,
+    "word_count": 135
+  },
+  {
+    "id": "review_jason_leigh_record_2_chunk_0",
+    "text": "Source type: student_review\n\nProfessor: Jason Leigh\nDepartment: Computer Science\nUniversity: University of Hawaii at Manoa\nOverall rating summary: 3.8 out of 5 overall quality based on 28 ratings; 75% would take again; 2.9 level of difficulty.\n\nReview 3:\nCourse: ICS 111\nDate: Dec 6, 2018\nQuality: 5.0\nDifficulty: 3.0\nFor credit: Yes\nAttendance: Not mandatory\nWould take again: Yes\nGrade: A+\nTextbook: No\nReview text: The student says the class is easy for students with previous programming experience. For students without prior experience, they recommend attending lectures and labs. The student says all slides are available online and that students receive extra credit at the start of the course to help cover missed labs or quizzes.\nTags: Hilarious; Extra credit; Helpful.",
+    "source": "data\\raw\\review_jason_leigh.txt",
+    "source_type": "student_review",
+    "professor": "Jason Leigh",
+    "record_index": 2,
+    "chunk_index": 0,
+    "word_count": 121
+  },
+  {
+    "id": "review_jason_leigh_record_3_chunk_0",
+    "text": "Source type: student_review\n\nProfessor: Jason Leigh\nDepartment: Computer Science\nUniversity: University of Hawaii at Manoa\nOverall rating summary: 3.8 out of 5 overall quality based on 28 ratings; 75% would take again; 2.9 level of difficulty.\n\nReview 4:\nCourse: ICS 111\nDate: Nov 20, 2018\nQuality: 4.0\nDifficulty: 3.0\nFor credit: Yes\nAttendance: Not mandatory\nWould take again: Yes\nGrade: A\nTextbook: No\nReview text: The student says Professor Leigh’s lectures sometimes go into more detail than necessary, but the material is well explained and beginner-friendly for new ICS students. The student says labs depend heavily on the teaching assistants, and that students can pass if they study and complete the work.\nTags: Respected; Lots of homework; Beware of pop quizzes.",
+    "source": "data\\raw\\review_jason_leigh.txt",
+    "source_type": "student_review",
+    "professor": "Jason Leigh",
+    "record_index": 3,
+    "chunk_index": 0,
+    "word_count": 121
+  },
+  {
+    "id": "review_jason_leigh_record_4_chunk_0",
+    "text": "Source type: student_review\n\nProfessor: Jason Leigh\nDepartment: Computer Science\nUniversity: University of Hawaii at Manoa\nOverall rating summary: 3.8 out of 5 overall quality based on 28 ratings; 75% would take again; 2.9 level of difficulty.\n\nReview 5:\nCourse: ICS 111\nDate: Oct 30, 2018\nQuality: 3.0\nDifficulty: 4.0\nFor credit: Yes\nAttendance: Not mandatory\nWould take again: Yes\nTextbook: No\nReview text: The student describes Professor Leigh positively overall, but says the lectures were not always helpful because they were not detailed enough. However, they say the slides contain the needed information and are available online. The student says exams are manageable if students study, and homework requires effort but is made easier by program schematics provided by the professor.\nTags: Helpful.",
+    "source": "data\\raw\\review_jason_leigh.txt",
+    "source_type": "student_review",
+    "professor": "Jason Leigh",
+    "record_index": 4,
+    "chunk_index": 0,
+    "word_count": 123
+  },
+  {
+    "id": "review_kyungim_baek_record_0_chunk_0",
+    "text": "Source type: student_review\n\nProfessor: Kyungim Baek\nDepartment: Computer Science\nUniversity: University of Hawaii at Manoa\nOverall rating summary: 3.4 out of 5 overall quality based on 28 ratings; 82% would take again; 3.3 level of difficulty.\n\nReview 1:\nCourse: ICS 110P\nDate: Dec 9, 2024\nQuality: 4.0\nDifficulty: 3.0\nFor credit: Yes\nAttendance: Mandatory\nWould take again: Yes\nGrade: A-\nTextbook: Yes\nReview text: Overall solid professor. Lectures are boring but easy to understand. Very helpful outside of class and knowledgeable about the subject. Students are advised to do the homework and not cheat themselves.\nTags: Clear grading criteria; Accessible outside class; Helpful.",
+    "source": "data\\raw\\review_kyungim_baek.txt",
+    "source_type": "student_review",
+    "professor": "Kyungim Baek",
+    "record_index": 0,
+    "chunk_index": 0,
+    "word_count": 103
+  },
+  {
+    "id": "review_kyungim_baek_record_1_chunk_0",
+    "text": "Source type: student_review\n\nProfessor: Kyungim Baek\nDepartment: Computer Science\nUniversity: University of Hawaii at Manoa\nOverall rating summary: 3.4 out of 5 overall quality based on 28 ratings; 82% would take again; 3.3 level of difficulty.\n\nReview 2:\nCourse: ICS 141\nDate: Dec 19, 2023\nQuality: 4.0\nDifficulty: 2.0\nFor credit: Yes\nAttendance: Mandatory\nWould take again: Yes\nGrade: A\nTextbook: N/A\nReview text: The student says they took ICS 235 with Professor Baek. They describe the professor as understanding the content well, but say lectures can be boring. The student recommends having some understanding of linear algebra to make the concepts easier, although it is technically not necessary. They describe the professor as a forgiving grader who is willing to help during office hours and patient with clarifying questions.\nTags: Extra credit; Gives good feedback; Caring; Helpful.",
+    "source": "data\\raw\\review_kyungim_baek.txt",
+    "source_type": "student_review",
+    "professor": "Kyungim Baek",
+    "record_index": 1,
+    "chunk_index": 0,
+    "word_count": 138
+  },
+  {
+    "id": "review_kyungim_baek_record_2_chunk_0",
+    "text": "Source type: student_review\n\nProfessor: Kyungim Baek\nDepartment: Computer Science\nUniversity: University of Hawaii at Manoa\nOverall rating summary: 3.4 out of 5 overall quality based on 28 ratings; 82% would take again; 3.3 level of difficulty.\n\nReview 3:\nCourse: ICS 241\nDate: May 17, 2023\nQuality: 5.0\nDifficulty: 2.0\nFor credit: Yes\nAttendance: Mandatory\nWould take again: Yes\nGrade: B\nTextbook: Yes\nReview text: The student says the lectures can be dry, but the class is very well structured and students know what to expect. The grading breakdown is described as 60% exams, 25% assignments, and 15% recitations. The exams are said to be very similar to the homework, so doing well on the homework and paying attention to recitation can help students succeed.\nTags: Participation matters; Clear grading criteria; Accessible outside class; Helpful.",
+    "source": "data\\raw\\review_kyungim_baek.txt",
+    "source_type": "student_review",
+    "professor": "Kyungim Baek",
+    "record_index": 2,
+    "chunk_index": 0,
+    "word_count": 134
+  },
+  {
+    "id": "review_kyungim_baek_record_3_chunk_0",
+    "text": "Source type: student_review\n\nProfessor: Kyungim Baek\nDepartment: Computer Science\nUniversity: University of Hawaii at Manoa\nOverall rating summary: 3.4 out of 5 overall quality based on 28 ratings; 82% would take again; 3.3 level of difficulty.\n\nReview 4:\nCourse: ICS 141\nDate: Dec 15, 2021\nQuality: 1.0\nDifficulty: 5.0\nFor credit: Yes\nAttendance: Mandatory\nWould take again: No\nTextbook: Yes\nOnline class: Yes\nReview text: The student says no extra credit was given and no curve was used, even when the class average on tests was failing. They describe the lectures as long slides with audio that was hard to understand. They also say the homework did not resemble the exams, no study guide was provided, and they felt the professor was condescending.\nTags: Clear grading criteria; Lecture heavy.",
+    "source": "data\\raw\\review_kyungim_baek.txt",
+    "source_type": "student_review",
+    "professor": "Kyungim Baek",
+    "record_index": 3,
+    "chunk_index": 0,
+    "word_count": 129
+  },
+  {
+    "id": "review_kyungim_baek_record_4_chunk_0",
+    "text": "Source type: student_review\n\nProfessor: Kyungim Baek\nDepartment: Computer Science\nUniversity: University of Hawaii at Manoa\nOverall rating summary: 3.4 out of 5 overall quality based on 28 ratings; 82% would take again; 3.3 level of difficulty.\n\nReview 5:\nCourse: ICS 141\nDate: Nov 19, 2020\nQuality: 1.0\nDifficulty: 4.0\nFor credit: Yes\nAttendance: Not mandatory\nWould take again: No\nGrade: Not sure yet\nTextbook: No\nOnline class: Yes\nReview text: The student describes this as a very stressful class and says the professor refused to help, gave no extra credit, and used no curves. The student says doing all the homework may not be enough if test performance is poor, especially because students need a B or better to move forward in the program. They recommend taking ICS 141 elsewhere.\nTags: Lots of homework; Graded by few things; Tough grader.",
+    "source": "data\\raw\\review_kyungim_baek.txt",
+    "source_type": "student_review",
+    "professor": "Kyungim Baek",
+    "record_index": 4,
+    "chunk_index": 0,
+    "word_count": 140
+  },
+  {
+    "id": "review_peter_sadowski_record_0_chunk_0",
+    "text": "Source type: student_review\n\nProfessor: Peter Sadowski\nAlso listed as: Peter Sadowsky\nDepartment: Computer Science\nUniversity: University of Hawaii at Manoa\nOverall rating summary: 2.1 out of 5 overall quality based on 19 ratings; 27% would take again; 4.7 level of difficulty.\n\nReview 1:\nCourse: ICS 637\nDate: Jan 15, 2026\nQuality: 5.0\nDifficulty: 3.0\nFor credit: Yes\nAttendance: Not mandatory\nWould take again: Yes\nGrade: A\nTextbook: Yes\nReview text: The student says Professor Sadowski reviewed the elementary math needed to understand the foundations of machine learning and deep learning, which made the course accessible to students from different backgrounds. They appreciated that lectures were recorded and found the recordings useful for midterm review. They also say he responds quickly to questions and emails. The student felt they learned a lot and says the midterm questions came from the lectures or homework.\nTags: Accessible outside class; Online savvy; Helpful.",
+    "source": "data\\raw\\review_peter_sadowski.txt",
+    "source_type": "student_review",
+    "professor": "Peter Sadowski",
+    "record_index": 0,
+    "chunk_index": 0,
+    "word_count": 149
+  },
+  {
+    "id": "review_peter_sadowski_record_1_chunk_0",
+    "text": "Source type: student_review\n\nProfessor: Peter Sadowski\nAlso listed as: Peter Sadowsky\nDepartment: Computer Science\nUniversity: University of Hawaii at Manoa\nOverall rating summary: 2.1 out of 5 overall quality based on 19 ratings; 27% would take again; 4.7 level of difficulty.\n\nReview 2:\nCourse: ICS 311\nDate: Oct 9, 2023\nQuality: 5.0\nDifficulty: 4.0\nFor credit: Yes\nAttendance: Mandatory\nWould take again: Yes\nGrade: A-\nTextbook: N/A\nReview text: The student says the class was difficult, but they respected Professor Sadowski because he responded to student struggles by asking for feedback and suggestions to improve the course. They felt he genuinely cared about student success and would help students who made an effort.\nTags: Helpful.",
+    "source": "data\\raw\\review_peter_sadowski.txt",
+    "source_type": "student_review",
+    "professor": "Peter Sadowski",
+    "record_index": 1,
+    "chunk_index": 0,
+    "word_count": 115
+  },
+  {
+    "id": "review_peter_sadowski_record_2_chunk_0",
+    "text": "Source type: student_review\n\nProfessor: Peter Sadowski\nAlso listed as: Peter Sadowsky\nDepartment: Computer Science\nUniversity: University of Hawaii at Manoa\nOverall rating summary: 2.1 out of 5 overall quality based on 19 ratings; 27% would take again; 4.7 level of difficulty.\n\nReview 3:\nCourse: ICS 637\nDate: Jul 31, 2023\nQuality: 1.0\nDifficulty: 3.0\nFor credit: Yes\nAttendance: Not mandatory\nTextbook: Yes\nReview text: The student says Professor Sadowski is very knowledgeable about machine learning, but they felt his answers to student questions were not always helpful. The review is negative overall and suggests the student did not feel well supported in the course.\nTags: Tough grader.",
+    "source": "data\\raw\\review_peter_sadowski.txt",
+    "source_type": "student_review",
+    "professor": "Peter Sadowski",
+    "record_index": 2,
+    "chunk_index": 0,
+    "word_count": 107
+  },
+  {
+    "id": "review_peter_sadowski_record_3_chunk_0",
+    "text": "Source type: student_review\n\nProfessor: Peter Sadowski\nAlso listed as: Peter Sadowsky\nDepartment: Computer Science\nUniversity: University of Hawaii at Manoa\nOverall rating summary: 2.1 out of 5 overall quality based on 19 ratings; 27% would take again; 4.7 level of difficulty.\n\nReview 4:\nCourse: ICS 311\nDate: Feb 9, 2023\nQuality: 1.0\nDifficulty: 5.0\nFor credit: Yes\nAttendance: Mandatory\nGrade: B\nTextbook: N/A\nReview text: The student says Professor Sadowski can be flexible with homework and quizzes if students explain their situation in advance. However, they felt his examples were overly complex and that he did not explain concepts clearly. The student recommends maximizing points on homework and quizzes because the exams may be very difficult.\nTags: Tough grader; Participation matters; Lots of homework.",
+    "source": "data\\raw\\review_peter_sadowski.txt",
+    "source_type": "student_review",
+    "professor": "Peter Sadowski",
+    "record_index": 3,
+    "chunk_index": 0,
+    "word_count": 124
+  },
+  {
+    "id": "review_peter_sadowski_record_4_chunk_0",
+    "text": "Source type: student_review\n\nProfessor: Peter Sadowski\nAlso listed as: Peter Sadowsky\nDepartment: Computer Science\nUniversity: University of Hawaii at Manoa\nOverall rating summary: 2.1 out of 5 overall quality based on 19 ratings; 27% would take again; 4.7 level of difficulty.\n\nReview 5:\nCourse: ICS 311\nDate: Jan 2, 2023\nQuality: 2.0\nDifficulty: 5.0\nTextbook: N/A\nReview text: The student describes Professor Sadowski as knowledgeable, but says they did not think he was strong at teaching the material. They felt his expectations were high and that many students struggled with the difficult concepts. The student also says the grading scale was not shown in the syllabus and wished the class included actual coding.\nTags: Tough grader; Lots of homework; Accessible outside class.",
+    "source": "data\\raw\\review_peter_sadowski.txt",
+    "source_type": "student_review",
+    "professor": "Peter Sadowski",
+    "record_index": 4,
+    "chunk_index": 0,
+    "word_count": 122
+  },
+  {
+    "id": "review_ravi_narayan_record_0_chunk_0",
+    "text": "Source type: student_review\n\nProfessor: Ravi Narayan\nDepartment: Computer Science\nUniversity: University of Hawaii at Manoa\nOverall rating summary: 3.6 out of 5 overall quality based on 64 ratings; 64% would take again; 3.8 level of difficulty.\n\nReview 1:\nCourse: ICS 212\nDate: Dec 22, 2025\nQuality: 4.0\nDifficulty: 4.0\nFor credit: Yes\nAttendance: Mandatory\nWould take again: Yes\nGrade: B+\nTextbook: Yes\nReview text: The student says lectures are not officially mandatory, but random quizzes can happen on some days and count for a large part of the grade. They describe the class as difficult, with many homework assignments. They also say that homework and quizzes were graded near the end of the semester and wish grading had been faster. The student recommends setting aside time for homework and studying for the final.\nTags: Clear grading criteria; Lots of homework; Beware of pop quizzes.",
+    "source": "data\\raw\\review_ravi_narayan.txt",
+    "source_type": "student_review",
+    "professor": "Ravi Narayan",
+    "record_index": 0,
+    "chunk_index": 0,
+    "word_count": 144
+  },
+  {
+    "id": "review_ravi_narayan_record_1_chunk_0",
+    "text": "Source type: student_review\n\nProfessor: Ravi Narayan\nDepartment: Computer Science\nUniversity: University of Hawaii at Manoa\nOverall rating summary: 3.6 out of 5 overall quality based on 64 ratings; 64% would take again; 3.8 level of difficulty.\n\nReview 2:\nCourse: ICS 451\nDate: Dec 18, 2025\nQuality: 5.0\nDifficulty: 5.0\nFor credit: Yes\nAttendance: Not mandatory\nWould take again: Yes\nGrade: Rather not say\nTextbook: Yes\nReview text: The student describes the class as very difficult, but says Professor Narayan is able to break down the material clearly. They say students need to put in effort and read the textbook. The student also says lectures are important for understanding the material and recommends attending class.\nTags: Get ready to read; Amazing lectures; Lecture heavy.",
+    "source": "data\\raw\\review_ravi_narayan.txt",
+    "source_type": "student_review",
+    "professor": "Ravi Narayan",
+    "record_index": 1,
+    "chunk_index": 0,
+    "word_count": 123
+  },
+  {
+    "id": "review_ravi_narayan_record_2_chunk_0",
+    "text": "Source type: student_review\n\nProfessor: Ravi Narayan\nDepartment: Computer Science\nUniversity: University of Hawaii at Manoa\nOverall rating summary: 3.6 out of 5 overall quality based on 64 ratings; 64% would take again; 3.8 level of difficulty.\n\nReview 3:\nCourse: ICS 451\nDate: Dec 17, 2025\nQuality: 2.0\nDifficulty: 5.0\nFor credit: Yes\nAttendance: Mandatory\nWould take again: Yes\nGrade: Not sure yet\nTextbook: Yes\nReview text: The student says the class was difficult because they had no prior knowledge of data networks. They found it hard to understand all of the material. They also say the course site had limited content beyond the syllabus and early course materials, and that exam coverage was not always clearly posted online. The student strongly recommends going to lecture.\nTags: Get ready to read; Lecture heavy; Test heavy.",
+    "source": "data\\raw\\review_ravi_narayan.txt",
+    "source_type": "student_review",
+    "professor": "Ravi Narayan",
+    "record_index": 2,
+    "chunk_index": 0,
+    "word_count": 134
+  },
+  {
+    "id": "review_ravi_narayan_record_3_chunk_0",
+    "text": "Source type: student_review\n\nProfessor: Ravi Narayan\nDepartment: Computer Science\nUniversity: University of Hawaii at Manoa\nOverall rating summary: 3.6 out of 5 overall quality based on 64 ratings; 64% would take again; 3.8 level of difficulty.\n\nReview 4:\nCourse: ICS 212\nDate: Dec 14, 2025\nQuality: 4.0\nDifficulty: 4.0\nFor credit: Yes\nAttendance: Mandatory\nWould take again: Yes\nGrade: B\nTextbook: Yes\nReview text: The student describes Professor Narayan as a strong professor, but says the class requires effort. They suggest that students who are willing to put in the work can succeed. The review is positive overall, but does not provide many specific details about assignments, exams, or grading.\nTags: Tough grader.",
+    "source": "data\\raw\\review_ravi_narayan.txt",
+    "source_type": "student_review",
+    "professor": "Ravi Narayan",
+    "record_index": 3,
+    "chunk_index": 0,
+    "word_count": 113
+  },
+  {
+    "id": "review_ravi_narayan_record_4_chunk_0",
+    "text": "Source type: student_review\n\nProfessor: Ravi Narayan\nDepartment: Computer Science\nUniversity: University of Hawaii at Manoa\nOverall rating summary: 3.6 out of 5 overall quality based on 64 ratings; 64% would take again; 3.8 level of difficulty.\n\nReview 5:\nCourse: ICS 451\nDate: Dec 14, 2025\nQuality: 5.0\nDifficulty: 5.0\nFor credit: Yes\nAttendance: Mandatory\nWould take again: Yes\nGrade: B+\nTextbook: Yes\nReview text: The student says Professor Narayan teaches difficult topics but is relatively easy to follow if students pay attention and complete the homework. They describe the exams as difficult but fair, saying students need to know the material well. The student recommends paying attention and asking questions when needed.\nTags: Tough grader; Gives good feedback; Beware of pop quizzes.",
+    "source": "data\\raw\\review_ravi_narayan.txt",
+    "source_type": "student_review",
+    "professor": "Ravi Narayan",
+    "record_index": 4,
+    "chunk_index": 0,
+    "word_count": 122
+  },
+  {
+    "id": "review_richard_halverson_record_0_chunk_0",
+    "text": "Source type: student_review\n\nProfessor: Richard Halverson\nDepartment listed on review site: Information Science\nUniversity: University of Hawaii at Manoa\nOverall rating summary: 3.7 out of 5 overall quality based on 17 ratings; 79% would take again; 2.2 level of difficulty.\n\nReview 1:\nCourse: ICS 321\nDate: Nov 29, 2025\nQuality: 1.0\nDifficulty: 1.0\nGrade: Not sure yet\nReview text: The student says the online textbook is confusing and sometimes does not make sense. They also say some concepts are not explained clearly.\nTags: Helpful.",
+    "source": "data\\raw\\review_richard_halverson.txt",
+    "source_type": "student_review",
+    "professor": "Richard Halverson",
+    "record_index": 0,
+    "chunk_index": 0,
+    "word_count": 84
+  },
+  {
+    "id": "review_richard_halverson_record_1_chunk_0",
+    "text": "Source type: student_review\n\nProfessor: Richard Halverson\nDepartment listed on review site: Information Science\nUniversity: University of Hawaii at Manoa\nOverall rating summary: 3.7 out of 5 overall quality based on 17 ratings; 79% would take again; 2.2 level of difficulty.\n\nReview 2:\nCourse: ICS 235\nDate: Aug 31, 2025\nQuality: 5.0\nDifficulty: 2.0\nFor credit: Yes\nAttendance: Not mandatory\nWould take again: Yes\nGrade: A\nTextbook: Yes\nOnline class: Yes\nReview text: The student describes Professor Halverson as very understanding, responsive, and kind. They say that students can earn points as long as they complete the textbook work, and they recommend taking him.\nTags: Gives good feedback; Caring; Accessible outside class; Helpful.",
+    "source": "data\\raw\\review_richard_halverson.txt",
+    "source_type": "student_review",
+    "professor": "Richard Halverson",
+    "record_index": 1,
+    "chunk_index": 0,
+    "word_count": 112
+  },
+  {
+    "id": "review_richard_halverson_record_2_chunk_0",
+    "text": "Source type: student_review\n\nProfessor: Richard Halverson\nDepartment listed on review site: Information Science\nUniversity: University of Hawaii at Manoa\nOverall rating summary: 3.7 out of 5 overall quality based on 17 ratings; 79% would take again; 2.2 level of difficulty.\n\nReview 3:\nCourse: ICS 211\nDate: Feb 20, 2025\nQuality: 3.0\nDifficulty: 3.0\nFor credit: Yes\nAttendance: Not mandatory\nWould take again: Yes\nGrade: A\nTextbook: N/A\nReview text: The student says they took the class during the summer and mostly used zyBooks for assignments. They say students can do well if they keep up with the lectures.\nTags: Clear grading criteria; Lecture heavy; Graded by few things.",
+    "source": "data\\raw\\review_richard_halverson.txt",
+    "source_type": "student_review",
+    "professor": "Richard Halverson",
+    "record_index": 2,
+    "chunk_index": 0,
+    "word_count": 108
+  },
+  {
+    "id": "review_richard_halverson_record_3_chunk_0",
+    "text": "Source type: student_review\n\nProfessor: Richard Halverson\nDepartment listed on review site: Information Science\nUniversity: University of Hawaii at Manoa\nOverall rating summary: 3.7 out of 5 overall quality based on 17 ratings; 79% would take again; 2.2 level of difficulty.\n\nReview 4:\nCourse: ICS 211\nDate: Jan 17, 2025\nQuality: 5.0\nDifficulty: 4.0\nFor credit: Yes\nAttendance: Not mandatory\nWould take again: Yes\nGrade: A\nTextbook: N/A\nOnline class: Yes\nReview text: The student says the summer class pacing made the course difficult because there was a lot of material. They say Professor Halverson uploaded lectures and additional explanations when students were stuck. They describe him as very accessible for questions and say the program used in the course helped them understand the material.\nTags: Accessible outside class; Helpful.",
+    "source": "data\\raw\\review_richard_halverson.txt",
+    "source_type": "student_review",
+    "professor": "Richard Halverson",
+    "record_index": 3,
+    "chunk_index": 0,
+    "word_count": 129
+  },
+  {
+    "id": "review_richard_halverson_record_4_chunk_0",
+    "text": "Source type: student_review\n\nProfessor: Richard Halverson\nDepartment listed on review site: Information Science\nUniversity: University of Hawaii at Manoa\nOverall rating summary: 3.7 out of 5 overall quality based on 17 ratings; 79% would take again; 2.2 level of difficulty.\n\nReview 5:\nCourse: ICS 211\nDate: Aug 19, 2022\nQuality: 5.0\nDifficulty: 1.0\nFor credit: Yes\nWould take again: Yes\nGrade: A+\nTextbook: Yes\nReview text: The student describes Professor Halverson as an excellent professor. They say the class was asynchronous and that he uploaded helpful videos explaining how to complete assignments. They also say late assignments could still receive full credit if submitted before the course ended.\nTags: Clear grading criteria; Graded by few things; Online savvy; Helpful.",
+    "source": "data\\raw\\review_richard_halverson.txt",
+    "source_type": "student_review",
+    "professor": "Richard Halverson",
+    "record_index": 4,
+    "chunk_index": 0,
+    "word_count": 119
+  }
+]

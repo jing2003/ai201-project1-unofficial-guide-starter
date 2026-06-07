@@ -1,0 +1,72 @@
+Source type: student_review
+
+Professor: Kyungim Baek
+Department: Computer Science
+University: University of Hawaii at Manoa
+Overall rating summary: 3.4 out of 5 overall quality based on 28 ratings; 82% would take again; 3.3 level of difficulty.
+
+Review 1:
+Course: ICS 110P
+Date: Dec 9, 2024
+Quality: 4.0
+Difficulty: 3.0
+For credit: Yes
+Attendance: Mandatory
+Would take again: Yes
+Grade: A-
+Textbook: Yes
+Review text: Overall solid professor. Lectures are boring but easy to understand. Very helpful outside of class and knowledgeable about the subject. Students are advised to do the homework and not cheat themselves.
+Tags: Clear grading criteria; Accessible outside class; Helpful.
+
+Review 2:
+Course: ICS 141
+Date: Dec 19, 2023
+Quality: 4.0
+Difficulty: 2.0
+For credit: Yes
+Attendance: Mandatory
+Would take again: Yes
+Grade: A
+Textbook: N/A
+Review text: The student says they took ICS 235 with Professor Baek. They describe the professor as understanding the content well, but say lectures can be boring. The student recommends having some understanding of linear algebra to make the concepts easier, although it is technically not necessary. They describe the professor as a forgiving grader who is willing to help during office hours and patient with clarifying questions.
+Tags: Extra credit; Gives good feedback; Caring; Helpful.
+
+Review 3:
+Course: ICS 241
+Date: May 17, 2023
+Quality: 5.0
+Difficulty: 2.0
+For credit: Yes
+Attendance: Mandatory
+Would take again: Yes
+Grade: B
+Textbook: Yes
+Review text: The student says the lectures can be dry, but the class is very well structured and students know what to expect. The grading breakdown is described as 60% exams, 25% assignments, and 15% recitations. The exams are said to be very similar to the homework, so doing well on the homework and paying attention to recitation can help students succeed.
+Tags: Participation matters; Clear grading criteria; Accessible outside class; Helpful.
+
+Review 4:
+Course: ICS 141
+Date: Dec 15, 2021
+Quality: 1.0
+Difficulty: 5.0
+For credit: Yes
+Attendance: Mandatory
+Would take again: No
+Textbook: Yes
+Online class: Yes
+Review text: The student says no extra credit was given and no curve was used, even when the class average on tests was failing. They describe the lectures as long slides with audio that was hard to understand. They also say the homework did not resemble the exams, no study guide was provided, and they felt the professor was condescending.
+Tags: Clear grading criteria; Lecture heavy.
+
+Review 5:
+Course: ICS 141
+Date: Nov 19, 2020
+Quality: 1.0
+Difficulty: 4.0
+For credit: Yes
+Attendance: Not mandatory
+Would take again: No
+Grade: Not sure yet
+Textbook: No
+Online class: Yes
+Review text: The student describes this as a very stressful class and says the professor refused to help, gave no extra credit, and used no curves. The student says doing all the homework may not be enough if test performance is poor, especially because students need a B or better to move forward in the program. They recommend taking ICS 141 elsewhere.
+Tags: Lots of homework; Graded by few things; Tough grader.

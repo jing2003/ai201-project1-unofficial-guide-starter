@@ -1,0 +1,69 @@
+Source type: student_review
+
+Professor: Jason Leigh
+Department: Computer Science
+University: University of Hawaii at Manoa
+Overall rating summary: 3.8 out of 5 overall quality based on 28 ratings; 75% would take again; 2.9 level of difficulty.
+
+Review 1:
+Listed course: ICS 111
+Review mentions course: ICS 486
+Date: Apr 30, 2025
+Quality: 4.0
+Difficulty: 3.0
+For credit: Yes
+Would take again: Yes
+Grade: A+
+Textbook: N/A
+Review text: The student says the class was not very difficult, but students needed to learn Unity on their own to do well. The course included three projects, including AR/VR apps and a group project, plus a presentation on a chosen topic. Class time was used for short lectures, presentations, and project work time. The student felt grading was lenient as long as students showed effort.
+Tags: Group projects; Clear grading criteria; Graded by few things.
+
+Review 2:
+Course: ICS 111
+Date: May 18, 2019
+Quality: 4.0
+Difficulty: 3.0
+For credit: Yes
+Attendance: Not mandatory
+Would take again: Yes
+Textbook: No
+Review text: The student says Professor Leigh cares about students and that students can do well by attending class or studying the slides. The course had no homework or quizzes that semester, but included projects and three midterms. The student recommends doing well on all three midterms and choosing good teammates for the final project. They also mention that the exams are not cumulative.
+Tags: Accessible outside class; Graded by few things; Test heavy.
+
+Review 3:
+Course: ICS 111
+Date: Dec 6, 2018
+Quality: 5.0
+Difficulty: 3.0
+For credit: Yes
+Attendance: Not mandatory
+Would take again: Yes
+Grade: A+
+Textbook: No
+Review text: The student says the class is easy for students with previous programming experience. For students without prior experience, they recommend attending lectures and labs. The student says all slides are available online and that students receive extra credit at the start of the course to help cover missed labs or quizzes.
+Tags: Hilarious; Extra credit; Helpful.
+
+Review 4:
+Course: ICS 111
+Date: Nov 20, 2018
+Quality: 4.0
+Difficulty: 3.0
+For credit: Yes
+Attendance: Not mandatory
+Would take again: Yes
+Grade: A
+Textbook: No
+Review text: The student says Professor Leigh’s lectures sometimes go into more detail than necessary, but the material is well explained and beginner-friendly for new ICS students. The student says labs depend heavily on the teaching assistants, and that students can pass if they study and complete the work.
+Tags: Respected; Lots of homework; Beware of pop quizzes.
+
+Review 5:
+Course: ICS 111
+Date: Oct 30, 2018
+Quality: 3.0
+Difficulty: 4.0
+For credit: Yes
+Attendance: Not mandatory
+Would take again: Yes
+Textbook: No
+Review text: The student describes Professor Leigh positively overall, but says the lectures were not always helpful because they were not detailed enough. However, they say the slides contain the needed information and are available online. The student says exams are manageable if students study, and homework requires effort but is made easier by program schematics provided by the professor.
+Tags: Helpful.

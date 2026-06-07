@@ -1,0 +1,71 @@
+Source type: student_review
+
+Professor: Ravi Narayan
+Department: Computer Science
+University: University of Hawaii at Manoa
+Overall rating summary: 3.6 out of 5 overall quality based on 64 ratings; 64% would take again; 3.8 level of difficulty.
+
+Review 1:
+Course: ICS 212
+Date: Dec 22, 2025
+Quality: 4.0
+Difficulty: 4.0
+For credit: Yes
+Attendance: Mandatory
+Would take again: Yes
+Grade: B+
+Textbook: Yes
+Review text: The student says lectures are not officially mandatory, but random quizzes can happen on some days and count for a large part of the grade. They describe the class as difficult, with many homework assignments. They also say that homework and quizzes were graded near the end of the semester and wish grading had been faster. The student recommends setting aside time for homework and studying for the final.
+Tags: Clear grading criteria; Lots of homework; Beware of pop quizzes.
+
+Review 2:
+Course: ICS 451
+Date: Dec 18, 2025
+Quality: 5.0
+Difficulty: 5.0
+For credit: Yes
+Attendance: Not mandatory
+Would take again: Yes
+Grade: Rather not say
+Textbook: Yes
+Review text: The student describes the class as very difficult, but says Professor Narayan is able to break down the material clearly. They say students need to put in effort and read the textbook. The student also says lectures are important for understanding the material and recommends attending class.
+Tags: Get ready to read; Amazing lectures; Lecture heavy.
+
+Review 3:
+Course: ICS 451
+Date: Dec 17, 2025
+Quality: 2.0
+Difficulty: 5.0
+For credit: Yes
+Attendance: Mandatory
+Would take again: Yes
+Grade: Not sure yet
+Textbook: Yes
+Review text: The student says the class was difficult because they had no prior knowledge of data networks. They found it hard to understand all of the material. They also say the course site had limited content beyond the syllabus and early course materials, and that exam coverage was not always clearly posted online. The student strongly recommends going to lecture.
+Tags: Get ready to read; Lecture heavy; Test heavy.
+
+Review 4:
+Course: ICS 212
+Date: Dec 14, 2025
+Quality: 4.0
+Difficulty: 4.0
+For credit: Yes
+Attendance: Mandatory
+Would take again: Yes
+Grade: B
+Textbook: Yes
+Review text: The student describes Professor Narayan as a strong professor, but says the class requires effort. They suggest that students who are willing to put in the work can succeed. The review is positive overall, but does not provide many specific details about assignments, exams, or grading.
+Tags: Tough grader.
+
+Review 5:
+Course: ICS 451
+Date: Dec 14, 2025
+Quality: 5.0
+Difficulty: 5.0
+For credit: Yes
+Attendance: Mandatory
+Would take again: Yes
+Grade: B+
+Textbook: Yes
+Review text: The student says Professor Narayan teaches difficult topics but is relatively easy to follow if students pay attention and complete the homework. They describe the exams as difficult but fair, saying students need to know the material well. The student recommends paying attention and asking questions when needed.
+Tags: Tough grader; Gives good feedback; Beware of pop quizzes.

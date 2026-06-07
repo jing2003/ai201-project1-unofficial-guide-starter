@@ -1,0 +1,69 @@
+Source type: student_review
+
+Professor: Edo Biagioni
+Also listed as: Edoardo Biagioni
+Department: Computer Science
+University: University of Hawaii at Manoa
+Overall rating summary: 2.3 out of 5 overall quality based on 51 ratings; 16% would take again; 4.3 level of difficulty.
+
+Review 1:
+Course: ICS 211
+Date: Apr 29, 2026
+Quality: 1.0
+Difficulty: 5.0
+For credit: Yes
+Attendance: Mandatory
+Grade: D
+Textbook: Yes
+Review text: The student strongly recommends taking another professor for ICS 211. They describe the lectures as very boring and say the tests and homework are extremely difficult. The student says the class may only be suitable for students who are already very strong in Java. They also felt that asking for help was sometimes discouraging because the professor seemed demeaning when they did not already know a topic.
+Tags: Get ready to read; Lecture heavy; Test heavy.
+
+Review 2:
+Course: ICS 211
+Date: Dec 10, 2025
+Quality: 1.0
+Difficulty: 5.0
+For credit: Yes
+Attendance: Mandatory
+Grade: Rather not say
+Textbook: Yes
+Review text: The student describes the workload as confusing and says they did not understand what was happening even when attending class. They felt the professor expected students to already know different languages and scripts before entering the course.
+Tags: Tough grader; Test heavy; Graded by few things.
+
+Review 3:
+Course: ICS 651
+Date: Dec 3, 2025
+Quality: 5.0
+Difficulty: 4.0
+For credit: Yes
+Attendance: Not mandatory
+Would take again: Yes
+Grade: A
+Textbook: N/A
+Review text: The student says the professor is excited about the course content and very knowledgeable in his field. They say he gives in-person one-on-one feedback on projects, checks for student understanding, and reaches out to students. The student describes the class as lecture-heavy but interesting. They also mention that he writes his own free public textbook. The student suggests that while ICS 211 may not be his strongest course, he performs very well when teaching a class in his field.
+Tags: Get ready to read; Amazing lectures; Gives good feedback.
+
+Review 4:
+Course: ICS 211
+Date: Dec 1, 2025
+Quality: 1.0
+Difficulty: 5.0
+For credit: Yes
+Attendance: Mandatory
+Grade: Not sure yet
+Textbook: Yes
+Review text: The student recommends finding another professor for ICS 211 if possible. They say the professor mostly reads from slides and does not always answer questions clearly. They also say exams may include topics that were only briefly covered. The student mentions that one exam had a low class average and that there were no grade curves. They describe the course as challenging.
+Tags: Tough grader; Beware of pop quizzes; Lecture heavy.
+
+Review 5:
+Course: ICS 211
+Date: Dec 1, 2025
+Reviewed: Dec 3, 2025
+Quality: 1.0
+Difficulty: 5.0
+For credit: Yes
+Attendance: Mandatory
+Grade: Rather not say
+Textbook: Yes
+Review text: This review gives very little detailed explanation, but the student gives a low rating and marks the course as lecture-heavy, test-heavy, and having pop quizzes.
+Tags: Beware of pop quizzes; Lecture heavy; Test heavy.

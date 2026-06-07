@@ -1,0 +1,65 @@
+Source type: student_review
+
+Professor: Peter Sadowski
+Also listed as: Peter Sadowsky
+Department: Computer Science
+University: University of Hawaii at Manoa
+Overall rating summary: 2.1 out of 5 overall quality based on 19 ratings; 27% would take again; 4.7 level of difficulty.
+
+Review 1:
+Course: ICS 637
+Date: Jan 15, 2026
+Quality: 5.0
+Difficulty: 3.0
+For credit: Yes
+Attendance: Not mandatory
+Would take again: Yes
+Grade: A
+Textbook: Yes
+Review text: The student says Professor Sadowski reviewed the elementary math needed to understand the foundations of machine learning and deep learning, which made the course accessible to students from different backgrounds. They appreciated that lectures were recorded and found the recordings useful for midterm review. They also say he responds quickly to questions and emails. The student felt they learned a lot and says the midterm questions came from the lectures or homework.
+Tags: Accessible outside class; Online savvy; Helpful.
+
+Review 2:
+Course: ICS 311
+Date: Oct 9, 2023
+Quality: 5.0
+Difficulty: 4.0
+For credit: Yes
+Attendance: Mandatory
+Would take again: Yes
+Grade: A-
+Textbook: N/A
+Review text: The student says the class was difficult, but they respected Professor Sadowski because he responded to student struggles by asking for feedback and suggestions to improve the course. They felt he genuinely cared about student success and would help students who made an effort.
+Tags: Helpful.
+
+Review 3:
+Course: ICS 637
+Date: Jul 31, 2023
+Quality: 1.0
+Difficulty: 3.0
+For credit: Yes
+Attendance: Not mandatory
+Textbook: Yes
+Review text: The student says Professor Sadowski is very knowledgeable about machine learning, but they felt his answers to student questions were not always helpful. The review is negative overall and suggests the student did not feel well supported in the course.
+Tags: Tough grader.
+
+Review 4:
+Course: ICS 311
+Date: Feb 9, 2023
+Quality: 1.0
+Difficulty: 5.0
+For credit: Yes
+Attendance: Mandatory
+Grade: B
+Textbook: N/A
+Review text: The student says Professor Sadowski can be flexible with homework and quizzes if students explain their situation in advance. However, they felt his examples were overly complex and that he did not explain concepts clearly. The student recommends maximizing points on homework and quizzes because the exams may be very difficult.
+Tags: Tough grader; Participation matters; Lots of homework.
+
+Review 5:
+Course: ICS 311
+Date: Jan 2, 2023
+Quality: 2.0
+Difficulty: 5.0
+Textbook: N/A
+Review text: The student describes Professor Sadowski as knowledgeable, but says they did not think he was strong at teaching the material. They felt his expectations were high and that many students struggled with the difficult concepts. The student also says the grading scale was not shown in the syllabus and wished the class included actual coding.
+Tags: Tough grader; Lots of homework; Accessible outside class.

@@ -1,0 +1,71 @@
+Source type: student_review
+
+Professor: Andrey Popov
+Department: Computer Science
+University: University of Hawaii at Manoa
+Overall rating summary: 4.4 out of 5 overall quality based on 5 ratings; 100% would take again; 2.8 level of difficulty.
+
+Review 1:
+Course: ICS 141
+Date: Apr 29, 2026
+Quality: 4.0
+Difficulty: 3.0
+For credit: Yes
+Attendance: Not mandatory
+Would take again: Yes
+Grade: Not sure yet
+Textbook: N/A
+Review text: The student says grading can feel intimidating because the professor wants students to show that they understand the material, especially with concerns about AI use. Although lectures are not required, the student says lectures contain useful information and that Professor Popov is open to questions and concerns. The student strongly recommends paying attention in class and asking questions.
+Tags: Clear grading criteria; Lecture heavy.
+
+Review 2:
+Course: ICS 141
+Date: Jan 13, 2026
+Quality: 5.0
+Difficulty: 3.0
+For credit: Yes
+Attendance: Not mandatory
+Would take again: Yes
+Grade: A+
+Textbook: Yes
+Review text: The student says Professor Popov may seem strict at first, but is approachable and teaches the material needed for exams. They recommend attending lectures, going to recitation, and preparing detailed cheat sheets for exams. The student says they expected to struggle but ended up doing very well on both exams.
+Tags: Lecture heavy; Test heavy.
+
+Review 3:
+Course: ICS 141
+Date: Aug 7, 2025
+Quality: 4.0
+Difficulty: 3.0
+For credit: Yes
+Attendance: Not mandatory
+Would take again: Yes
+Grade: B+
+Textbook: Yes
+Review text: The student recommends making strong use of the allowed cheat sheet by including proofs and as much useful information as possible. They say proofs were the hardest part of the course, but they felt they learned material that would be useful in later computer science classes.
+Tags: Amazing lectures; Test heavy.
+
+Review 4:
+Course: ICS 141
+Date: May 5, 2025
+Quality: 5.0
+Difficulty: 3.0
+For credit: Yes
+Attendance: Not mandatory
+Would take again: Yes
+Grade: A
+Textbook: Yes
+Review text: The student describes the class as very informative. They say lecture attendance was not required, but strongly recommend going and taking good notes because Professor Popov does not follow the textbook exactly. The course had two midterms, one final, double-sided cheat sheets for exams, required recitation, and several homework assignments. The teaching assistant also provided extra credit opportunities.
+Tags: Extra credit; Lecture heavy; Test heavy.
+
+Review 5:
+Course: ICS 141
+Date: Jan 14, 2025
+Quality: 4.0
+Difficulty: 2.0
+For credit: Yes
+Attendance: Not mandatory
+Would take again: Yes
+Grade: A-
+Textbook: Yes
+Review text: The student describes Professor Popov as informative and says his lectures are understandable. They say he likes to explain proof-based concepts in depth. The course included homework assigned by the teaching assistant, mandatory recitation, two tests, and a final. The student also says partial credit was given on exams.
+Tags: Get ready to read; Extra credit; Lecture heavy.
