@@ -11,6 +11,8 @@
 
 <!-- What domain did you choose? Why is this knowledge valuable and hard to find through official channels? -->
 
+My domain is student reviews of Computer Science professors at the University of Hawaii at Manoa. While the university’s official website provides information such as faculty research interests, contact details, and academic backgrounds, it does not offer insights into the classroom experience. This knowledge is valuable because students often want to understand a professor’s teaching style, workload, assessment methods, and course structure, such as whether classes rely heavily on readings or lecture slides, emphasize exams or projects, or include pop quizzes. These details are typically shared through student reviews and are difficult to find through official university channels.
+
 ---
 
 ## Documents
@@ -18,18 +20,19 @@
 <!-- List your specific sources: URLs, subreddit names, forum threads, or file descriptions.
      Aim for at least 10 sources that together cover different subtopics or perspectives within your domain. -->
 
-| # | Source | Description | URL or location |
-|---|--------|-------------|-----------------|
-| 1 | | | |
-| 2 | | | |
-| 3 | | | |
-| 4 | | | |
-| 5 | | | |
-| 6 | | | |
-| 7 | | | |
-| 8 | | | |
-| 9 | | | |
-| 10 | | | |
+| #   | Source             | Description                                                                                                                                                                                          | URL or location                                    |
+| --- | ------------------ | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------- |
+| 1   | UHM ICS Faculty    | Faculty directory for the Information and Computer Sciences department at University of Hawaiʻi at Mānoa, featuring faculty profiles, research interests, contact details, and academic backgrounds. | https://www.ics.hawaii.edu/people/                 |
+| 2   | Rate My Professors | A Rate My Professors page for Kyungim Baek, showing student ratings, difficulty level, recommendation rate, and review statistics.                                                                   | https://www.ratemyprofessors.com/professor/1032361 |
+| 3   | Rate My Professors | A Rate My Professors page for Edoardo Biagioni, showing student ratings, difficulty level, recommendation rate, and review statistics.                                                               | https://www.ratemyprofessors.com/professor/8389    |
+| 4   | Rate My Professors | A Rate My Professors page for Henri Casanova, showing student ratings, difficulty level, recommendation rate, and review statistics.                                                                 | https://www.ratemyprofessors.com/professor/1070112 |
+| 5   | Rate My Professors | A Rate My Professors page for Richard Halverson, showing student ratings, difficulty level, recommendation rate, and review statistics.                                                              | https://www.ratemyprofessors.com/professor/2013421 |
+| 6   | Rate My Professors | A Rate My Professors page for Jason Leigh, showing student ratings, difficulty level, recommendation rate, and review statistics.                                                                    | https://www.ratemyprofessors.com/professor/1950937 |
+| 7   | Rate My Professors | A Rate My Professors page for Carleton Moore, showing student ratings, difficulty level, recommendation rate, and review statistics.                                                                 | https://www.ratemyprofessors.com/professor/1898989 |
+| 8   | Rate My Professors | A Rate My Professors page for Ravi Narayan, showing student ratings, difficulty level, recommendation rate, and review statistics.                                                                   | https://www.ratemyprofessors.com/professor/8392    |
+| 9   | Rate My Professors | A Rate My Professors page for Dusko Pavlovic, showing student ratings, difficulty level, recommendation rate, and review statistics.                                                                 | https://www.ratemyprofessors.com/professor/2342816 |
+| 10  | Rate My Professors | A Rate My Professors page for Andrey Popov, showing student ratings, difficulty level, recommendation rate, and review statistics.                                                                   | https://www.ratemyprofessors.com/professor/3048897 |
+| 11  | Rate My Professors | A Rate My Professors page for Peter Sadowski, showing student ratings, difficulty level, recommendation rate, and review statistics.                                                                 | https://www.ratemyprofessors.com/professor/2639726 |
 
 ---
 
@@ -71,13 +74,13 @@
      is right or wrong. "What are good dining halls?" is too vague.
      "What do students say about wait times at [dining hall name] during lunch?" is testable. -->
 
-| # | Question | Expected answer |
-|---|----------|-----------------|
-| 1 | | |
-| 2 | | |
-| 3 | | |
-| 4 | | |
-| 5 | | |
+| #   | Question | Expected answer |
+| --- | -------- | --------------- |
+| 1   |          |                 |
+| 2   |          |                 |
+| 3   |          |                 |
+| 4   |          |                 |
+| 5   |          |                 |
 
 ---
 
